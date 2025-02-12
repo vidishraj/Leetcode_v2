@@ -22,3 +22,4 @@
 | Unique Paths | 100.00% | 100.00% | MEDIUM |
 | Edit Distance | 5.00% | 61.93% | MEDIUM |
 | Maximum Subarray | 60.27% | 99.64% | MEDIUM |
+| Jump Game II | 24.13% | 100.00% | MEDIUM |
