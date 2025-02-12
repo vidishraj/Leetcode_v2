@@ -172,3 +172,4 @@
 | Array With Elements Not Equal to Average of Neighbors | 6.38% | 6.38% | MEDIUM |
 | Time Based Key-Value Store | 5.06% | 90.19% | MEDIUM |
 | Minimize the Difference Between Target and Chosen Elements | 83.33% | 16.66% | MEDIUM |
+| Search a 2D Matrix | 0.10% | 100.00% | MEDIUM |
