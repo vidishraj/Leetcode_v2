@@ -59,3 +59,4 @@
 | Crawler Log Folder | 2.74% | 100.00% | EASY |
 | Odd Even Linked List | 2.68% | 99.84% | MEDIUM |
 | Delete the Middle Node of a Linked List | 5.02% | 8.09% | MEDIUM |
+| Dota2 Senate | 11.15% | 100.00% | MEDIUM |
