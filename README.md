@@ -13,3 +13,4 @@
 | Minimize Result by Adding Parentheses to Expression | 10.52% | 58.77% | MEDIUM |
 | Flip String to Monotone Increasing | 76.86% | 43.23% | MEDIUM |
 | Mini Parser | 90.16% | 92.69% | MEDIUM |
+| Path with Maximum Gold | 16.03% | 32.34% | MEDIUM |
