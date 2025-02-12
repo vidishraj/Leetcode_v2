@@ -129,3 +129,4 @@
 | Two Sum | 45.65% | 60.42% | EASY |
 | Happy Number | 5.86% | 100.00% | EASY |
 | Contains Duplicate II | 5.11% | 71.79% | EASY |
+| Spiral Matrix | 100.00% | 100.00% | MEDIUM |
