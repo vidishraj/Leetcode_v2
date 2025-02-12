@@ -95,3 +95,4 @@
 | Word Break | 5.04% | 100.00% | MEDIUM |
 | Longest Substring Without Repeating Characters | 13.96% | 100.00% | MEDIUM |
 | Longest Consecutive Sequence | 11.27% | 16.57% | MEDIUM |
+| Decode Ways | 4.17% | 99.99% | MEDIUM |
