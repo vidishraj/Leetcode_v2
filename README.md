@@ -20,3 +20,4 @@
 | Unique Paths II | 37.42% | 100.00% | MEDIUM |
 | Minimum Path Sum | 24.31% | 87.85% | MEDIUM |
 | Unique Paths | 100.00% | 100.00% | MEDIUM |
+| Edit Distance | 5.00% | 61.93% | MEDIUM |
