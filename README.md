@@ -27,3 +27,4 @@
 | Generate Parentheses | 100.00% | 100.00% | MEDIUM |
 | Split a String Into the Max Number of Unique Substrings | 14.77% | 100.00% | MEDIUM |
 | Design Neighbor Sum Service | 5.43% | 100.00% | EASY |
+| Find if Digit Game Can Be Won | 3.25% | 100.00% | EASY |
