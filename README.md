@@ -71,3 +71,4 @@
 | Max Number of K-Sum Pairs | 57.69% | 94.90% | MEDIUM |
 | Move Zeroes | 14.72% | 99.78% | EASY |
 | Is Subsequence | 3.76% | 100.00% | EASY |
+| Equal Row and Column Pairs | 10.36% | 99.92% | MEDIUM |
