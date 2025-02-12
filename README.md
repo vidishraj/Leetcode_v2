@@ -98,3 +98,4 @@
 | Decode Ways | 4.17% | 99.99% | MEDIUM |
 | Surrounded Regions | 5.02% | 71.05% | MEDIUM |
 | Number of Islands | 5.07% | 37.92% | MEDIUM |
+| Count Alternating Subarrays | 5.24% | 100.00% | MEDIUM |
