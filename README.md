@@ -76,3 +76,4 @@
 | Unique Number of Occurrences | 6.06% | 100.00% | EASY |
 | Find the Difference of Two Arrays | 21.29% | 100.00% | EASY |
 | String Compression | 4.44% | 100.00% | MEDIUM |
+| Product of Array Except Self | 5.06% | 27.33% | MEDIUM |
