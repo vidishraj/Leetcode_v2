@@ -21,3 +21,4 @@
 | Minimum Path Sum | 24.31% | 87.85% | MEDIUM |
 | Unique Paths | 100.00% | 100.00% | MEDIUM |
 | Edit Distance | 5.00% | 61.93% | MEDIUM |
+| Maximum Subarray | 60.27% | 99.64% | MEDIUM |
