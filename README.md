@@ -165,3 +165,4 @@
 | Maximum Value of an Ordered Triplet I | 12.12% | 100.00% | EASY |
 | Minimum Number of Operations to Make Array Empty | 6.00% | 30.00% | MEDIUM |
 | Minimum Operations to Collect Elements | 6.00% | 0.00% | EASY |
+| Find Maximum Number of String Pairs | 5.10% | 100.00% | EASY |
