@@ -38,3 +38,4 @@
 | Delete Node in a BST | 2.44% | 100.00% | MEDIUM |
 | Rotting Oranges | 5.03% | 100.00% | MEDIUM |
 | Nearest Exit from Entrance in Maze | 5.01% | 100.00% | MEDIUM |
+| Find Peak Element | 0.70% | 100.00% | MEDIUM |
