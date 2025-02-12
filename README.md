@@ -164,3 +164,4 @@
 | Word Search | 5.00% | 94.34% | MEDIUM |
 | Maximum Value of an Ordered Triplet I | 12.12% | 100.00% | EASY |
 | Minimum Number of Operations to Make Array Empty | 6.00% | 30.00% | MEDIUM |
+| Minimum Operations to Collect Elements | 6.00% | 0.00% | EASY |
