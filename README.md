@@ -62,3 +62,4 @@
 | Dota2 Senate | 11.15% | 100.00% | MEDIUM |
 | Number of Recent Calls | 15.85% | 96.92% | EASY |
 | Find Pivot Index | 13.22% | 99.99% | EASY |
+| Find the Highest Altitude | 0.37% | 100.00% | EASY |
