@@ -180,3 +180,4 @@
 | Degree of an Array | 17.45% | 100.00% | EASY |
 | Find the Maximum Achievable Number | 2.28% | 100.00% | EASY |
 | Peak Index in a Mountain Array | 5.08% | 10.96% | MEDIUM |
+| Count Nice Pairs in an Array | 5.08% | 98.21% | MEDIUM |
