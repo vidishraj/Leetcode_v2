@@ -195,3 +195,4 @@
 | String to Integer (atoi) | 100.00% | 100.00% | MEDIUM |
 | Palindrome Number | 5.05% | 100.00% | EASY |
 | Reverse Integer | 21.88% | 100.00% | MEDIUM |
+| Add Two Numbers | 5.40% | 99.98% | MEDIUM |
