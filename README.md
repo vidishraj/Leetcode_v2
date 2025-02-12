@@ -176,3 +176,4 @@
 | Swap Nodes in Pairs | 3.26% | 32.17% | MEDIUM |
 | Number of Employees Who Met the Target | 0.17% | 100.00% | EASY |
 | Count and Say | 5.67% | 100.00% | MEDIUM |
+| Basic Calculator II | 5.01% | 5.05% | MEDIUM |
