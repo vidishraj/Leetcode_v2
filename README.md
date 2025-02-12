@@ -113,3 +113,4 @@
 | Split the Array | 5.45% | 100.00% | EASY |
 | Maximum Number of Operations With the Same Score II | 35.59% | 59.32% | MEDIUM |
 | Maximum Number of Operations With the Same Score I | 0.00% | 100.00% | EASY |
+| Minimum Index of a Valid Split | 5.45% | 5.45% | MEDIUM |
