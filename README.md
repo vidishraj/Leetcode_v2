@@ -161,3 +161,4 @@
 | Remove Element | 100.00% | 100.00% | EASY |
 | Car Fleet | 10.10% | 14.26% | MEDIUM |
 | Merge Sorted Array | 2.78% | 100.00% | EASY |
+| Word Search | 5.00% | 94.34% | MEDIUM |
