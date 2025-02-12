@@ -74,3 +74,4 @@
 | Equal Row and Column Pairs | 10.36% | 99.92% | MEDIUM |
 | Determine if Two Strings Are Close | 8.24% | 99.08% | MEDIUM |
 | Unique Number of Occurrences | 6.06% | 100.00% | EASY |
+| Find the Difference of Two Arrays | 21.29% | 100.00% | EASY |
