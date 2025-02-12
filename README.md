@@ -8,3 +8,4 @@
 | Candy | 9.76% | 83.71% | HARD |
 | Maximum Number of K-Divisible Components | 5.02% | 5.01% | HARD |
 | Wildcard Matching | 5.00% | 43.08% | HARD |
+| Event Emitter | 47.04% | 33.04% | MEDIUM |
