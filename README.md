@@ -26,3 +26,4 @@
 | Jump Game | 18.28% | 7.30% | MEDIUM |
 | Generate Parentheses | 100.00% | 100.00% | MEDIUM |
 | Split a String Into the Max Number of Unique Substrings | 14.77% | 100.00% | MEDIUM |
+| Design Neighbor Sum Service | 5.43% | 100.00% | EASY |
