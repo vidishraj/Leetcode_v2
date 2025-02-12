@@ -33,3 +33,4 @@
 | Remove Digit From Number to Maximize Result | 3.42% | 100.00% | EASY |
 | Greatest Common Divisor of Strings | 12.08% | 17.29% | EASY |
 | Total Cost to Hire K Workers | 5.03% | 16.04% | MEDIUM |
+| Evaluate Division | 0.58% | 100.00% | MEDIUM |
