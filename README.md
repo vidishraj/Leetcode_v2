@@ -68,3 +68,4 @@
 | Maximum Average Subarray I | 5.02% | 10.45% | EASY |
 | Maximum Number of Vowels in a Substring of Given Length | 51.53% | 99.90% | MEDIUM |
 | Container With Most Water | 5.61% | 99.90% | MEDIUM |
+| Max Number of K-Sum Pairs | 57.69% | 94.90% | MEDIUM |
