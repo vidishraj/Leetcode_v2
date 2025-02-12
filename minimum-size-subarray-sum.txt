@@ -1,0 +1,45 @@
+
+
+int minSubArrayLen(int target, int* nums, int numsSize){
+    //initialize the window
+    int i =0;   //left pane 
+    int j=0;    //right pane 
+    int min=0;
+    int sum=0;
+    for(int i=0;i<numsSize;i++){
+        if(nums[i]>=target){
+            return 1;
+        }
+    }
+    while(i<=j &&j<numsSize&& sum<target){
+        sum+=nums[j];
+        j++;
+    }
+    if(j==numsSize && sum<target){
+        return 0;
+    }
+    
+    min=j-i;
+    if(j==numsSize){
+        while(i<=j && sum>target){
+            sum-=nums[i];
+            i++;
+        }
+        if(min>j-i+1){
+            min=j-i+1;
+        }
+    }
+  
+    while(i<=j && j<numsSize){
+        sum+=nums[j]; //adding the next elemen
+        while(i<=j && sum-nums[i]>=target){
+            sum-=nums[i];
+            i++;
+        }
+        if(min>j-i+1){
+            min=j-i+1;
+        }
+        j++;
+    }
+    return min;
+}
