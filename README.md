@@ -188,3 +188,4 @@
 | Maximum Difference by Remapping a Digit | 0.00% | 0.00% | EASY |
 | Find the Array Concatenation Value | 5.45% | 6.36% | EASY |
 | Count Vowel Strings in Ranges | 5.26% | 5.02% | MEDIUM |
+| Take Gifts From the Richest Pile | 8.59% | 100.00% | EASY |
