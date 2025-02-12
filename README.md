@@ -184,3 +184,4 @@
 | Egg Drop With 2 Eggs and N Floors | 43.46% | 100.00% | MEDIUM |
 | Remove Colored Pieces if Both Neighbors are the Same Color | 13.88% | 100.00% | MEDIUM |
 | Two City Scheduling | 5.00% | 100.00% | MEDIUM |
+| Merge Two 2D Arrays by Summing Values | 5.00% | 4.00% | EASY |
