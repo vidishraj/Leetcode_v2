@@ -193,3 +193,4 @@
 | Longest Palindromic Substring | 5.09% | 13.62% | MEDIUM |
 | Check if Every Row and Column Contains All Numbers | 5.14% | 65.10% | EASY |
 | String to Integer (atoi) | 100.00% | 100.00% | MEDIUM |
+| Palindrome Number | 5.05% | 100.00% | EASY |
