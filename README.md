@@ -192,3 +192,4 @@
 | Add Digits | 3.47% | 100.00% | EASY |
 | Longest Palindromic Substring | 5.09% | 13.62% | MEDIUM |
 | Check if Every Row and Column Contains All Numbers | 5.14% | 65.10% | EASY |
+| String to Integer (atoi) | 100.00% | 100.00% | MEDIUM |
