@@ -86,3 +86,4 @@
 | Kids With the Greatest Number of Candies | 1.82% | 100.00% | EASY |
 | Merge Strings Alternately | 94.01% | 100.00% | EASY |
 | Reorder List | 5.02% | 5.18% | MEDIUM |
+| Maximum Product Subarray | 5.09% | 100.00% | MEDIUM |
