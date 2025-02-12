@@ -146,3 +146,4 @@
 | Find the Index of the First Occurrence in a String | 5.91% | 100.00% | EASY |
 | Longest Common Prefix | 100.00% | 100.00% | EASY |
 | Length of Last Word | 0.42% | 100.00% | EASY |
+| Insert Delete GetRandom O(1) | 24.59% | 11.01% | MEDIUM |
