@@ -79,3 +79,4 @@
 | Product of Array Except Self | 5.06% | 27.33% | MEDIUM |
 | Reverse Words in a String | 9.04% | 100.00% | MEDIUM |
 | Increasing Triplet Subsequence | 5.01% | 100.00% | MEDIUM |
+| Average Waiting Time | 5.24% | 12.01% | MEDIUM |
