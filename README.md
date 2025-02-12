@@ -31,3 +31,4 @@
 | K Divisible Elements Subarrays | 71.81% | 82.79% | MEDIUM |
 | Minimum Consecutive Cards to Pick Up | 5.05% | 16.66% | MEDIUM |
 | Remove Digit From Number to Maximize Result | 3.42% | 100.00% | EASY |
+| Greatest Common Divisor of Strings | 12.08% | 17.29% | EASY |
