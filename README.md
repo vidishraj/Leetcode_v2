@@ -116,3 +116,4 @@
 | Minimum Index of a Valid Split | 5.45% | 5.45% | MEDIUM |
 | Count Prefix and Suffix Pairs I | 5.05% | 100.00% | EASY |
 | Most Frequent Prime | 9.37% | 100.00% | MEDIUM |
+| Find the Length of the Longest Common Prefix | 5.05% | 43.90% | MEDIUM |
