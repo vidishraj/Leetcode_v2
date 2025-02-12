@@ -140,3 +140,4 @@
 | 3Sum | 29.00% | 5.28% | MEDIUM |
 | Two Sum II - Input Array Is Sorted | 2.95% | 100.00% | MEDIUM |
 | Valid Palindrome | 5.13% | 55.62% | EASY |
+| Zigzag Conversion | 41.96% | 99.29% | MEDIUM |
