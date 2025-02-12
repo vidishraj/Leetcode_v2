@@ -70,3 +70,4 @@
 | Container With Most Water | 5.61% | 99.90% | MEDIUM |
 | Max Number of K-Sum Pairs | 57.69% | 94.90% | MEDIUM |
 | Move Zeroes | 14.72% | 99.78% | EASY |
+| Is Subsequence | 3.76% | 100.00% | EASY |
