@@ -173,3 +173,4 @@
 | Time Based Key-Value Store | 5.06% | 90.19% | MEDIUM |
 | Minimize the Difference Between Target and Chosen Elements | 83.33% | 16.66% | MEDIUM |
 | Search a 2D Matrix | 0.10% | 100.00% | MEDIUM |
+| Swap Nodes in Pairs | 3.26% | 32.17% | MEDIUM |
