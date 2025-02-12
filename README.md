@@ -121,3 +121,4 @@
 | Simplify Path | 6.65% | 100.00% | MEDIUM |
 | Least Number of Unique Integers after K Removals | 70.01% | 99.73% | MEDIUM |
 | Minimum Number of Arrows to Burst Balloons | 5.02% | 8.34% | MEDIUM |
+| Group Anagrams | 5.21% | 99.98% | MEDIUM |
