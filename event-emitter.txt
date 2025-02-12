@@ -1,0 +1,59 @@
+type Callback = (...args: any[]) => any;
+type Subscription = {
+    unsubscribe: () => void
+}
+
+class EventEmitter {
+    events:Object
+    constructor(){
+        this.events = {}
+    }
+    subscribe(eventName: string, callback: Callback): Subscription {
+        if (!this.events.hasOwnProperty(eventName)){
+            this.events[eventName] = {}
+        }
+        const newIndex = Object.keys(this.events[eventName]).length;
+        this.events[eventName][newIndex] = callback;
+        
+        return {
+            unsubscribe: () => {
+                delete this.events[eventName][newIndex];
+            }
+        };
+    }
+    
+    emit(eventName: string, args: any[] = []): any[] {
+        let callBackList = []
+        let res = []
+        if(!this.events.hasOwnProperty(eventName)){
+            return []
+        }
+        else{
+            let start = 0;
+            let keyLength = Object.keys(this.events[eventName]).length
+            while(start<=keyLength){
+                if(this.events[eventName].hasOwnProperty(start)){
+                    callBackList.push(this.events[eventName][start])
+                }
+                start++;
+            }
+            callBackList.forEach(callBack=>{
+                res.push(callBack(...args))
+            })
+        }
+        return res
+        
+    }
+}
+
+/**
+ * const emitter = new EventEmitter();
+ *
+ * // Subscribe to the onClick event with onClickCallback
+ * function onClickCallback() { return 99 }
+ * const sub = emitter.subscribe('onClick', onClickCallback);
+ *
+ * emitter.emit('onClick'); // [99]
+ * sub.unsubscribe(); // undefined
+ * emitter.emit('onClick'); // []
+ */
