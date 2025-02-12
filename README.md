@@ -11,3 +11,4 @@
 | Event Emitter | 47.04% | 33.04% | MEDIUM |
 | Special Array I | 100.00% | 32.53% | EASY |
 | Minimize Result by Adding Parentheses to Expression | 10.52% | 58.77% | MEDIUM |
+| Flip String to Monotone Increasing | 76.86% | 43.23% | MEDIUM |
