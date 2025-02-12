@@ -65,3 +65,4 @@
 | Find the Highest Altitude | 0.37% | 100.00% | EASY |
 | Longest Subarray of 1's After Deleting One Element | 5.01% | 99.98% | MEDIUM |
 | Max Consecutive Ones III | 5.07% | 100.00% | MEDIUM |
+| Maximum Average Subarray I | 5.02% | 10.45% | EASY |
