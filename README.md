@@ -142,3 +142,4 @@
 | Valid Palindrome | 5.13% | 55.62% | EASY |
 | Zigzag Conversion | 41.96% | 99.29% | MEDIUM |
 | Integer to Roman | 48.59% | 96.31% | MEDIUM |
+| Roman to Integer | 100.00% | 100.00% | EASY |
