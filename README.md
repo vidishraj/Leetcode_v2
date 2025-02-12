@@ -194,3 +194,4 @@
 | Check if Every Row and Column Contains All Numbers | 5.14% | 65.10% | EASY |
 | String to Integer (atoi) | 100.00% | 100.00% | MEDIUM |
 | Palindrome Number | 5.05% | 100.00% | EASY |
+| Reverse Integer | 21.88% | 100.00% | MEDIUM |
