@@ -144,3 +144,4 @@
 | Integer to Roman | 48.59% | 96.31% | MEDIUM |
 | Roman to Integer | 100.00% | 100.00% | EASY |
 | Find the Index of the First Occurrence in a String | 5.91% | 100.00% | EASY |
+| Longest Common Prefix | 100.00% | 100.00% | EASY |
