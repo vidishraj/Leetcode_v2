@@ -24,3 +24,4 @@
 | Maximum Subarray | 60.27% | 99.64% | MEDIUM |
 | Jump Game II | 24.13% | 100.00% | MEDIUM |
 | Jump Game | 18.28% | 7.30% | MEDIUM |
+| Generate Parentheses | 100.00% | 100.00% | MEDIUM |
