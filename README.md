@@ -186,3 +186,4 @@
 | Two City Scheduling | 5.00% | 100.00% | MEDIUM |
 | Merge Two 2D Arrays by Summing Values | 5.00% | 4.00% | EASY |
 | Maximum Difference by Remapping a Digit | 0.00% | 0.00% | EASY |
+| Find the Array Concatenation Value | 5.45% | 6.36% | EASY |
