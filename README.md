@@ -169,3 +169,4 @@
 | Split Strings by Separator | 7.04% | 100.00% | EASY |
 | Climbing Stairs | 0.12% | 100.00% | EASY |
 | Mice and Cheese | 5.28% | 5.65% | MEDIUM |
+| Array With Elements Not Equal to Average of Neighbors | 6.38% | 6.38% | MEDIUM |
