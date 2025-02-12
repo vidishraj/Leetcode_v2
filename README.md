@@ -88,3 +88,4 @@
 | Reorder List | 5.02% | 5.18% | MEDIUM |
 | Maximum Product Subarray | 5.09% | 100.00% | MEDIUM |
 | Pacific Atlantic Water Flow | 5.00% | 100.00% | MEDIUM |
+| Lowest Common Ancestor of a Binary Search Tree | 5.79% | 99.96% | MEDIUM |
