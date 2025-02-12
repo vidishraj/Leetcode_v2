@@ -123,3 +123,4 @@
 | Minimum Number of Arrows to Burst Balloons | 5.02% | 8.34% | MEDIUM |
 | Group Anagrams | 5.21% | 99.98% | MEDIUM |
 | Ransom Note | 6.40% | 99.50% | EASY |
+| Isomorphic Strings | 7.99% | 27.80% | EASY |
