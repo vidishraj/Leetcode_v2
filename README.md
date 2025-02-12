@@ -178,3 +178,4 @@
 | Count and Say | 5.67% | 100.00% | MEDIUM |
 | Basic Calculator II | 5.01% | 5.05% | MEDIUM |
 | Degree of an Array | 17.45% | 100.00% | EASY |
+| Find the Maximum Achievable Number | 2.28% | 100.00% | EASY |
