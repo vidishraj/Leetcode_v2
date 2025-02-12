@@ -190,3 +190,4 @@
 | Count Vowel Strings in Ranges | 5.26% | 5.02% | MEDIUM |
 | Take Gifts From the Richest Pile | 8.59% | 100.00% | EASY |
 | Add Digits | 3.47% | 100.00% | EASY |
+| Longest Palindromic Substring | 5.09% | 13.62% | MEDIUM |
