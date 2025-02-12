@@ -53,3 +53,4 @@
 | Longest ZigZag Path in a Binary Tree | 5.02% | 88.42% | MEDIUM |
 | Path Sum III | 26.02% | 100.00% | MEDIUM |
 | Count Good Nodes in Binary Tree | 88.32% | 99.71% | MEDIUM |
+| Leaf-Similar Trees | 0.33% | 100.00% | EASY |
