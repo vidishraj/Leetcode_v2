@@ -81,3 +81,4 @@
 | Increasing Triplet Subsequence | 5.01% | 100.00% | MEDIUM |
 | Average Waiting Time | 5.24% | 12.01% | MEDIUM |
 | Removing Stars From a String | 34.97% | 99.65% | MEDIUM |
+| Can Place Flowers | 6.13% | 100.00% | EASY |
