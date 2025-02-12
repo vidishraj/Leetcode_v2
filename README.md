@@ -106,3 +106,4 @@
 | Minimum Impossible OR | 5.43% | 16.30% | MEDIUM |
 | Minimum Time to Revert Word to Initial State I | 4.06% | 100.00% | MEDIUM |
 | Apply Operations to Make String Empty | 29.78% | 12.23% | MEDIUM |
+| Maximum Odd Binary Number | 6.05% | 100.00% | EASY |
