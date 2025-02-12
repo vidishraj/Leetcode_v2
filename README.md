@@ -128,3 +128,4 @@
 | Valid Anagram | 9.26% | 48.26% | EASY |
 | Two Sum | 45.65% | 60.42% | EASY |
 | Happy Number | 5.86% | 100.00% | EASY |
+| Contains Duplicate II | 5.11% | 71.79% | EASY |
