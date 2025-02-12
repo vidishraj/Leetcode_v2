@@ -156,3 +156,4 @@
 | Rotate Array | 13.29% | 5.52% | MEDIUM |
 | Ant on the Boundary | 97.75% | 100.00% | EASY |
 | Majority Element | 5.00% | 96.99% | EASY |
+| Remove Duplicates from Sorted Array II | 100.00% | 100.00% | MEDIUM |
