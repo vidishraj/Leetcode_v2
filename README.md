@@ -162,3 +162,4 @@
 | Car Fleet | 10.10% | 14.26% | MEDIUM |
 | Merge Sorted Array | 2.78% | 100.00% | EASY |
 | Word Search | 5.00% | 94.34% | MEDIUM |
+| Maximum Value of an Ordered Triplet I | 12.12% | 100.00% | EASY |
