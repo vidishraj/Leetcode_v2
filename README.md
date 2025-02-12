@@ -133,3 +133,4 @@
 | Rotate Image | 100.00% | 100.00% | MEDIUM |
 | Set Matrix Zeroes | 5.08% | 100.00% | MEDIUM |
 | Implement Trie (Prefix Tree) | 5.00% | 78.79% | MEDIUM |
+| Minimum Size Subarray Sum | 5.33% | 100.00% | MEDIUM |
