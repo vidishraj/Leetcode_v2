@@ -92,3 +92,4 @@
 | Find the Winner of the Circular Game | 18.20% | 100.00% | MEDIUM |
 | Clone Graph | 14.17% | 100.00% | MEDIUM |
 | Palindromic Substrings | 19.99% | 25.04% | MEDIUM |
+| Word Break | 5.04% | 100.00% | MEDIUM |
