@@ -124,3 +124,4 @@
 | Group Anagrams | 5.21% | 99.98% | MEDIUM |
 | Ransom Note | 6.40% | 99.50% | EASY |
 | Isomorphic Strings | 7.99% | 27.80% | EASY |
+| Word Pattern | 2.20% | 100.00% | EASY |
