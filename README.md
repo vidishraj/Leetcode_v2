@@ -198,3 +198,4 @@
 | Add Two Numbers | 5.40% | 99.98% | MEDIUM |
 | Binary Search | 0.84% | 99.94% | EASY |
 | Invert Binary Tree | 0.45% | 100.00% | EASY |
+| Largest Positive Integer That Exists With Its Negative | 5.01% | 100.00% | EASY |
