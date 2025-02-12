@@ -137,3 +137,4 @@
 | Game of Life | 1.02% | 100.00% | MEDIUM |
 | Find First Palindromic String in the Array | 5.30% | 100.00% | EASY |
 | Valid Sudoku | 5.04% | 100.00% | MEDIUM |
+| 3Sum | 29.00% | 5.28% | MEDIUM |
