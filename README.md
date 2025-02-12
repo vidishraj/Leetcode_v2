@@ -131,3 +131,4 @@
 | Contains Duplicate II | 5.11% | 71.79% | EASY |
 | Spiral Matrix | 100.00% | 100.00% | MEDIUM |
 | Rotate Image | 100.00% | 100.00% | MEDIUM |
+| Set Matrix Zeroes | 5.08% | 100.00% | MEDIUM |
