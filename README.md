@@ -108,3 +108,4 @@
 | Apply Operations to Make String Empty | 29.78% | 12.23% | MEDIUM |
 | Maximum Odd Binary Number | 6.05% | 100.00% | EASY |
 | Find the Prefix Common Array of Two Arrays | 5.26% | 100.00% | MEDIUM |
+| Even Odd Tree | 5.08% | 100.00% | MEDIUM |
