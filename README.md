@@ -152,3 +152,4 @@
 | Best Time to Buy and Sell Stock II | 16.25% | 100.00% | MEDIUM |
 | H-Index | 100.00% | 100.00% | MEDIUM |
 | Maximum Points in an Archery Competition | 23.76% | 11.88% | MEDIUM |
+| Best Time to Buy and Sell Stock | 5.09% | 8.92% | EASY |
