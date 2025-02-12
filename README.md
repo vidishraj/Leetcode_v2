@@ -126,3 +126,4 @@
 | Isomorphic Strings | 7.99% | 27.80% | EASY |
 | Word Pattern | 2.20% | 100.00% | EASY |
 | Valid Anagram | 9.26% | 48.26% | EASY |
+| Two Sum | 45.65% | 60.42% | EASY |
