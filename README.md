@@ -80,3 +80,4 @@
 | Reverse Words in a String | 9.04% | 100.00% | MEDIUM |
 | Increasing Triplet Subsequence | 5.01% | 100.00% | MEDIUM |
 | Average Waiting Time | 5.24% | 12.01% | MEDIUM |
+| Removing Stars From a String | 34.97% | 99.65% | MEDIUM |
