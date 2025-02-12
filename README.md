@@ -46,3 +46,4 @@
 | Smallest Number in Infinite Set | 10.66% | 100.00% | MEDIUM |
 | Successful Pairs of Spells and Potions | 5.03% | 10.49% | MEDIUM |
 | Reverse Substrings Between Each Pair of Parentheses | 5.08% | 100.00% | MEDIUM |
+| Search in a Binary Search Tree | 4.14% | 100.00% | EASY |
