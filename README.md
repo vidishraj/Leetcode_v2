@@ -149,3 +149,4 @@
 | Insert Delete GetRandom O(1) | 24.59% | 11.01% | MEDIUM |
 | Perfect Squares | 5.00% | 10.97% | MEDIUM |
 | Gas Station | 5.09% | 99.94% | MEDIUM |
+| Best Time to Buy and Sell Stock II | 16.25% | 100.00% | MEDIUM |
