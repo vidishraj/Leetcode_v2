@@ -18,3 +18,4 @@
 | Maximum Number of Fish in a Grid | 31.22% | 59.67% | MEDIUM |
 | Valid Palindrome II | 58.33% | 37.64% | EASY |
 | Unique Paths II | 37.42% | 100.00% | MEDIUM |
+| Minimum Path Sum | 24.31% | 87.85% | MEDIUM |
