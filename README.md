@@ -104,3 +104,4 @@
 | Distribute Elements Into Two Arrays I | 1.69% | 100.00% | EASY |
 | Minimum Operations to Write the Letter Y on a Grid | 5.29% | 100.00% | MEDIUM |
 | Minimum Impossible OR | 5.43% | 16.30% | MEDIUM |
+| Minimum Time to Revert Word to Initial State I | 4.06% | 100.00% | MEDIUM |
