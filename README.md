@@ -168,3 +168,4 @@
 | Find Maximum Number of String Pairs | 5.10% | 100.00% | EASY |
 | Split Strings by Separator | 7.04% | 100.00% | EASY |
 | Climbing Stairs | 0.12% | 100.00% | EASY |
+| Mice and Cheese | 5.28% | 5.65% | MEDIUM |
