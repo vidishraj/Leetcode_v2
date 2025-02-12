@@ -175,3 +175,4 @@
 | Search a 2D Matrix | 0.10% | 100.00% | MEDIUM |
 | Swap Nodes in Pairs | 3.26% | 32.17% | MEDIUM |
 | Number of Employees Who Met the Target | 0.17% | 100.00% | EASY |
+| Count and Say | 5.67% | 100.00% | MEDIUM |
