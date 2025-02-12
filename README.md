@@ -147,3 +147,4 @@
 | Longest Common Prefix | 100.00% | 100.00% | EASY |
 | Length of Last Word | 0.42% | 100.00% | EASY |
 | Insert Delete GetRandom O(1) | 24.59% | 11.01% | MEDIUM |
+| Perfect Squares | 5.00% | 10.97% | MEDIUM |
