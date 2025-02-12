@@ -16,3 +16,4 @@
 | Path with Maximum Gold | 16.03% | 32.34% | MEDIUM |
 | Maximum Length of a Concatenated String with Unique Characters | 35.03% | 89.96% | MEDIUM |
 | Maximum Number of Fish in a Grid | 31.22% | 59.67% | MEDIUM |
+| Valid Palindrome II | 58.33% | 37.64% | EASY |
