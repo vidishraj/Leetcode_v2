@@ -29,3 +29,4 @@
 | Design Neighbor Sum Service | 5.43% | 100.00% | EASY |
 | Find if Digit Game Can Be Won | 3.25% | 100.00% | EASY |
 | K Divisible Elements Subarrays | 71.81% | 82.79% | MEDIUM |
+| Minimum Consecutive Cards to Pick Up | 5.05% | 16.66% | MEDIUM |
