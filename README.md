@@ -44,3 +44,4 @@
 | Best Time to Buy and Sell Stock with Transaction Fee | 20.76% | 74.07% | MEDIUM |
 | Guess Number Higher or Lower | 29.04% | 100.00% | EASY |
 | Smallest Number in Infinite Set | 10.66% | 100.00% | MEDIUM |
+| Successful Pairs of Spells and Potions | 5.03% | 10.49% | MEDIUM |
