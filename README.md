@@ -97,3 +97,4 @@
 | Longest Consecutive Sequence | 11.27% | 16.57% | MEDIUM |
 | Decode Ways | 4.17% | 99.99% | MEDIUM |
 | Surrounded Regions | 5.02% | 71.05% | MEDIUM |
+| Number of Islands | 5.07% | 37.92% | MEDIUM |
