@@ -83,3 +83,4 @@
 | Removing Stars From a String | 34.97% | 99.65% | MEDIUM |
 | Can Place Flowers | 6.13% | 100.00% | EASY |
 | Reverse Vowels of a String | 6.68% | 100.00% | EASY |
+| Kids With the Greatest Number of Candies | 1.82% | 100.00% | EASY |
