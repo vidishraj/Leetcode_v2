@@ -200,3 +200,4 @@
 | Invert Binary Tree | 0.45% | 100.00% | EASY |
 | Largest Positive Integer That Exists With Its Negative | 5.01% | 100.00% | EASY |
 | Running Sum of 1d Array | 100.00% | 100.00% | EASY |
+| Merge Two Sorted Lists | 1.35% | 99.95% | EASY |
