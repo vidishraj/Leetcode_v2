@@ -85,3 +85,4 @@
 | Reverse Vowels of a String | 6.68% | 100.00% | EASY |
 | Kids With the Greatest Number of Candies | 1.82% | 100.00% | EASY |
 | Merge Strings Alternately | 94.01% | 100.00% | EASY |
+| Reorder List | 5.02% | 5.18% | MEDIUM |
