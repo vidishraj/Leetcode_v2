@@ -61,3 +61,4 @@
 | Delete the Middle Node of a Linked List | 5.02% | 8.09% | MEDIUM |
 | Dota2 Senate | 11.15% | 100.00% | MEDIUM |
 | Number of Recent Calls | 15.85% | 96.92% | EASY |
+| Find Pivot Index | 13.22% | 99.99% | EASY |
