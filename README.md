@@ -25,3 +25,4 @@
 | Jump Game II | 24.13% | 100.00% | MEDIUM |
 | Jump Game | 18.28% | 7.30% | MEDIUM |
 | Generate Parentheses | 100.00% | 100.00% | MEDIUM |
+| Split a String Into the Max Number of Unique Substrings | 14.77% | 100.00% | MEDIUM |
