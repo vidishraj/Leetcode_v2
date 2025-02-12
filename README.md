@@ -111,3 +111,4 @@
 | Even Odd Tree | 5.08% | 100.00% | MEDIUM |
 | Find First and Last Position of Element in Sorted Array | 0.24% | 100.00% | MEDIUM |
 | Split the Array | 5.45% | 100.00% | EASY |
+| Maximum Number of Operations With the Same Score II | 35.59% | 59.32% | MEDIUM |
