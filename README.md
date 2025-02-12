@@ -30,3 +30,4 @@
 | Find if Digit Game Can Be Won | 3.25% | 100.00% | EASY |
 | K Divisible Elements Subarrays | 71.81% | 82.79% | MEDIUM |
 | Minimum Consecutive Cards to Pick Up | 5.05% | 16.66% | MEDIUM |
+| Remove Digit From Number to Maximize Result | 3.42% | 100.00% | EASY |
