@@ -9,3 +9,4 @@
 | Maximum Number of K-Divisible Components | 5.02% | 5.01% | HARD |
 | Wildcard Matching | 5.00% | 43.08% | HARD |
 | Event Emitter | 47.04% | 33.04% | MEDIUM |
+| Special Array I | 100.00% | 32.53% | EASY |
