@@ -35,3 +35,4 @@
 | Total Cost to Hire K Workers | 5.03% | 16.04% | MEDIUM |
 | Evaluate Division | 0.58% | 100.00% | MEDIUM |
 | Reorder Routes to Make All Paths Lead to the City Zero | 5.09% | 91.58% | MEDIUM |
+| Delete Node in a BST | 2.44% | 100.00% | MEDIUM |
