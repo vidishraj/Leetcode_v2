@@ -63,3 +63,4 @@
 | Number of Recent Calls | 15.85% | 96.92% | EASY |
 | Find Pivot Index | 13.22% | 99.99% | EASY |
 | Find the Highest Altitude | 0.37% | 100.00% | EASY |
+| Longest Subarray of 1's After Deleting One Element | 5.01% | 99.98% | MEDIUM |
