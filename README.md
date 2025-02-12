@@ -58,3 +58,4 @@
 | Maximum Twin Sum of a Linked List | 5.05% | 5.06% | MEDIUM |
 | Crawler Log Folder | 2.74% | 100.00% | EASY |
 | Odd Even Linked List | 2.68% | 99.84% | MEDIUM |
+| Delete the Middle Node of a Linked List | 5.02% | 8.09% | MEDIUM |
