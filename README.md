@@ -100,3 +100,4 @@
 | Number of Islands | 5.07% | 37.92% | MEDIUM |
 | Count Alternating Subarrays | 5.24% | 100.00% | MEDIUM |
 | Water Bottles II | 95.03% | 100.00% | MEDIUM |
+| Harshad Number | 0.00% | 100.00% | EASY |
