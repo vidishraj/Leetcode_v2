@@ -159,3 +159,4 @@
 | Remove Duplicates from Sorted Array II | 100.00% | 100.00% | MEDIUM |
 | Remove Duplicates from Sorted Array | 7.18% | 100.00% | EASY |
 | Remove Element | 100.00% | 100.00% | EASY |
+| Car Fleet | 10.10% | 14.26% | MEDIUM |
