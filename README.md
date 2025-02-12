@@ -197,3 +197,4 @@
 | Reverse Integer | 21.88% | 100.00% | MEDIUM |
 | Add Two Numbers | 5.40% | 99.98% | MEDIUM |
 | Binary Search | 0.84% | 99.94% | EASY |
+| Invert Binary Tree | 0.45% | 100.00% | EASY |
