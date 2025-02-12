@@ -93,3 +93,4 @@
 | Clone Graph | 14.17% | 100.00% | MEDIUM |
 | Palindromic Substrings | 19.99% | 25.04% | MEDIUM |
 | Word Break | 5.04% | 100.00% | MEDIUM |
+| Longest Substring Without Repeating Characters | 13.96% | 100.00% | MEDIUM |
