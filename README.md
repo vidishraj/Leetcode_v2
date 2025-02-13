@@ -239,3 +239,4 @@
 | Verifying an Alien Dictionary | 7.27% | 100.00% | EASY |
 | Remove Nth Node From End of List | 0.81% | 99.97% | MEDIUM |
 | Sort Integers by The Power Value | 40.29% | 36.78% | MEDIUM |
+| Count Complete Tree Nodes | 1.05% | 11.21% | EASY |
