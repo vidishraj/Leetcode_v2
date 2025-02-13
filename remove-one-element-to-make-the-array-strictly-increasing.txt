@@ -1,0 +1,50 @@
+int check(int *nums,int n){
+    int count=0;
+    for(int i=0;i+1<n;i++){
+        if(nums[i]<nums[i+1]){
+            count++;
+        }
+    }
+    if(n==2 && nums[0]==nums[1]){
+        return true;
+    }
+    if(count==n-1){
+        return 1;
+    }
+    return 0;
+}
+
+bool canBeIncreasing(int* nums, int numsSize){
+    int i=0;
+    if(check(nums,numsSize)){
+        return true;
+    }
+    while(i+1<numsSize){
+        if(nums[i]>nums[i+1]){
+            int i1=i;
+            int i2=i+1;
+            int j=0;
+            int *temp=(int*)malloc(4*(numsSize));
+            for(int i=0;i<numsSize;i++){
+                if(i!=i1){
+                    temp[j]=nums[i];
+                    j++;
+                }
+            }
+        
+            if(check(temp,numsSize-1)){
+                return true;
+            }
+            for(int i=0;i<numsSize-1;i++){
+                if(i==i1){
+                    temp[i]=nums[i1];
+                }
+            }
+            if(check(temp,numsSize-1)){
+                return true;
+            }
+        }
+    i++;
+    }
+    return false;
+}
