@@ -233,3 +233,4 @@
 | Binary Tree Level Order Traversal | 14.58% | 100.00% | MEDIUM |
 | Sort Colors | 100.00% | 99.98% | MEDIUM |
 | Merge Intervals | 9.11% | 100.00% | MEDIUM |
+| Permutations | 14.15% | 100.00% | MEDIUM |
