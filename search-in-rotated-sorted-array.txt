@@ -1,0 +1,32 @@
+
+
+int search(int* nums, int numsSize, int target){
+    int min=nums[0];
+    int rot=0;
+    for(int i=0;i<numsSize;i++){
+        if(nums[i]<min){
+            min=nums[i];
+            rot=i;
+        }
+    }
+    int mid,temp;
+    int start=0;
+    int end=numsSize-1;
+    while(start<=end){
+        mid=(start+end)/2;
+        temp=(mid+rot)%numsSize;
+        if(nums[temp]==target){
+            return temp;
+        }
+        if(nums[temp]<target){
+            start=mid+1;
+           
+        }
+        if(nums[temp]>target){
+            end=mid-1;
+        }
+        
+    }
+    return -1;
+    
+}
