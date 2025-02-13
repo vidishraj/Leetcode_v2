@@ -220,3 +220,4 @@
 | Letter Combinations of a Phone Number | 100.00% | 100.00% | MEDIUM |
 | Search Insert Position | 0.74% | 100.00% | EASY |
 | Copy List with Random Pointer | 28.63% | 100.00% | MEDIUM |
+| Evaluate Reverse Polish Notation | 7.39% | 100.00% | MEDIUM |
