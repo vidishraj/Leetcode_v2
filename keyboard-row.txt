@@ -1,0 +1,48 @@
+
+
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+char ** findWords(char ** words, int wordsSize, int* returnSize){
+    char row1[]="qwertyuiop";
+        char row2[]="asdfghjkl";
+        char row3[]="zxcvbnm";
+        char **res=(char**)malloc(101*wordsSize);
+        int j=0;
+    for(int i=0;i<wordsSize;i++){
+        char c=words[i][0];
+        c=tolower(c);
+        //printf("%c",c);
+        int belong=0;
+        if(strchr(row1,c)!=NULL){
+            belong=1;
+        }
+         if(strchr(row2,c)!=NULL){
+            belong=2;
+        }
+         if(strchr(row3,c)!=NULL){
+            belong=3;
+         }
+        int count=1;
+        for(int j=1;j<strlen(words[i]);j++){
+            char c=words[i][j];
+            c=tolower(c);
+            if(belong==1 && strchr(row1,c)!=NULL){
+                count++;
+            }
+            if(belong==2 && strchr(row2,c)!=NULL){
+                count++;
+            }
+            if(belong==3 && strchr(row3,c)!=NULL){
+                count++;
+            }
+        }
+      
+        if(count==strlen(words[i])){
+            res[j]=words[i];
+            j++;
+        }
+    }
+ *returnSize=j;
+ return res;           
+}
