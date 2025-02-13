@@ -1,0 +1,130 @@
+
+#include <limits.h>
+
+typedef struct MinStack{
+    int val;
+   struct MinStack *next;
+    
+} MinStack;
+
+
+int min=INT_MAX;
+/** initialize your data structure here. */
+int top=-1;
+
+MinStack* minStackCreate(){
+    MinStack* t1=(MinStack*)malloc(sizeof(MinStack));
+    t1->val=0;
+    t1->next=NULL;
+    return t1;
+}
+
+void minStackPush(MinStack* obj, int val){//insert end 
+
+     MinStack* temp2=obj;
+    if(val<min){
+        min=val;
+    }
+    MinStack* temp=(MinStack*)malloc(sizeof(MinStack));
+    temp->val=val;
+    temp->next=NULL;
+    if(top==-1){
+        obj->val=val;
+        obj->next=NULL;
+        top++;
+       // printf("The list is: ");
+    while(temp2!=NULL){
+        printf("%d ",temp2->val);
+        temp2=temp2->next;
+    }
+    //    printf("\n");
+        return;
+    }
+ 
+     while(temp2->next!=NULL){
+         temp2=temp2->next;
+    }
+    temp2->next=temp;
+    temp2=obj;
+    top++;
+   // printf("The list is: ");
+    while(temp2!=NULL){
+      //  printf("%d ",temp2->val);
+        temp2=temp2->next;
+    }
+    //printf("\n");
+    return;
+}
+
+void minStackPop(MinStack* obj) {//remove from the right
+    MinStack* temp=obj;
+    MinStack* temp1;
+    if(obj->next==NULL){
+        if(min==obj->val){
+            min=INT_MAX;
+        }
+       // printf("Value popped is %d\n",temp->val);
+        top--;
+        return;
+    }
+    int min2=INT_MAX;
+    while(temp->next!=NULL){
+         if(temp->val<min2){
+            min2=temp->val;
+        }
+        temp1=temp;
+        temp=temp->next;
+    }
+    if(temp->val==min){
+        min=min2;
+        
+    }
+   // printf("Value popped is %d\n",temp->val);
+    temp1->next=NULL;
+    free(temp);
+    top--;
+}
+
+int minStackTop(MinStack* obj) {
+    MinStack* temp=obj;
+    //MinStack* temp1;
+    while(temp->next!=NULL){
+        temp=temp->next;
+    }
+     if(obj->next==NULL){
+      //  printf("List top value is %d \n", temp->val);
+        return temp->val;
+    }
+
+    //printf("List top value is %d \n", temp->val);
+    return temp->val;
+}
+
+int minStackGetMin(MinStack* obj){
+    //printf("Minimum value is :%d\n",min);
+    return min;
+}
+
+void minStackFree(MinStack* obj) {
+    MinStack* temp;
+    while(obj!=NULL){
+        temp=obj;
+        obj=obj->next;
+        free(temp);
+    }
+    top=-1;
+    min=INT_MAX;
+}
+/**
+ * Your MinStack struct will be instantiated and called as such:
+ * MinStack* obj = minStackCreate();
+ * minStackPush(obj, val);
+ 
+ * minStackPop(obj);
+ 
+ * int param_3 = minStackTop(obj);
+ 
+ * int param_4 = minStackGetMin(obj);
+ 
+ * minStackFree(obj);
+*/
