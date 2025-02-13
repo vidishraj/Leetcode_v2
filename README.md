@@ -257,3 +257,4 @@
 | Reverse Bits | 100.00% | 100.00% | EASY |
 | Excel Sheet Column Number | 3.90% | 100.00% | EASY |
 | Pascal's Triangle | 100.00% | 100.00% | EASY |
+| Convert Sorted Array to Binary Search Tree | 8.49% | 12.32% | EASY |
