@@ -242,3 +242,4 @@
 | Count Complete Tree Nodes | 1.05% | 11.21% | EASY |
 | Maximum Product Difference Between Two Pairs | 5.05% | 100.00% | EASY |
 | Symmetric Tree | 1.49% | 99.95% | EASY |
+| Power of Three | 7.24% | 100.00% | EASY |
