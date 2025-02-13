@@ -229,3 +229,4 @@
 | Longest Increasing Subsequence | 27.45% | 100.00% | MEDIUM |
 | Fizz Buzz | 0.92% | 100.00% | EASY |
 | First Unique Character in a String | 5.62% | 100.00% | EASY |
+| Intersection of Two Arrays II | 5.31% | 100.00% | EASY |
