@@ -311,3 +311,4 @@
 | Minimum Index Sum of Two Lists | 75.43% | 5.26% | EASY |
 | Remove One Element to Make the Array Strictly Increasing | 9.25% | 100.00% | EASY |
 | Minimum Difference Between Highest and Lowest of K Scores | 23.72% | 100.00% | EASY |
+| Plus One | 100.00% | 100.00% | EASY |
