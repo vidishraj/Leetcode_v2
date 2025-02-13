@@ -289,3 +289,4 @@
 | Shortest Path in Binary Matrix | 32.59% | 100.00% | MEDIUM |
 | Subsets | 100.00% | 100.00% | MEDIUM |
 | Number of Provinces | 5.99% | 100.00% | MEDIUM |
+| Min Cost Climbing Stairs | 6.77% | 100.00% | EASY |
