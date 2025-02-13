@@ -265,3 +265,4 @@
 | Binary Tree Zigzag Level Order Traversal | 2.38% | 99.99% | MEDIUM |
 | Majority Element II | 3.88% | 100.00% | MEDIUM |
 | Rotate String | 1.21% | 100.00% | EASY |
+| Binary Tree Paths | 100.00% | 100.00% | EASY |
