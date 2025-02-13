@@ -313,3 +313,4 @@
 | Minimum Difference Between Highest and Lowest of K Scores | 23.72% | 100.00% | EASY |
 | Plus One | 100.00% | 100.00% | EASY |
 | Intersection of Two Linked Lists | 5.34% | 100.00% | EASY |
+| Reverse String | 2.53% | 100.00% | EASY |
