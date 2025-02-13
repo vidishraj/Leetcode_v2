@@ -284,3 +284,4 @@
 | Backspace String Compare | 11.67% | 100.00% | EASY |
 | Palindrome Linked List | 5.40% | 30.67% | EASY |
 | Single Number | 5.19% | 99.93% | EASY |
+| All Paths From Source to Target | 6.80% | 53.85% | MEDIUM |
