@@ -246,3 +246,4 @@
 | Missing Number | 6.09% | 99.98% | EASY |
 | Delete Node in a Linked List | 32.59% | 100.00% | MEDIUM |
 | Contains Duplicate | 95.07% | 100.00% | EASY |
+| Partition Array for Maximum Sum | 10.52% | 100.00% | MEDIUM |
