@@ -273,3 +273,4 @@
 | Number of Segments in a String | 0.00% | 100.00% | EASY |
 | Arranging Coins | 5.65% | 100.00% | EASY |
 | Range Sum Query - Immutable | 5.39% | 100.00% | EASY |
+| Power of Four | 100.00% | 100.00% | EASY |
