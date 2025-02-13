@@ -256,3 +256,4 @@
 | Reverse Linked List | 100.00% | 100.00% | EASY |
 | Reverse Bits | 100.00% | 100.00% | EASY |
 | Excel Sheet Column Number | 3.90% | 100.00% | EASY |
+| Pascal's Triangle | 100.00% | 100.00% | EASY |
