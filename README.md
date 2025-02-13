@@ -249,3 +249,4 @@
 | Partition Array for Maximum Sum | 10.52% | 100.00% | MEDIUM |
 | Number of Good Ways to Split a String | 6.56% | 18.25% | MEDIUM |
 | Count Square Submatrices with All Ones | 6.17% | 100.00% | MEDIUM |
+| Count Sorted Vowel Strings | 100.00% | 100.00% | MEDIUM |
