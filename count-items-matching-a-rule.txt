@@ -1,0 +1,21 @@
+
+
+int countMatches(char *** items, int itemsSize, int* itemsColSize, char * ruleKey, char * ruleValue){
+    int res=0;
+    int check=-1;
+    if(!strcmp(ruleKey, "type")){
+        check=0;
+    }
+    if(!strcmp(ruleKey, "color")){
+        check=1;
+    }
+    if(!strcmp(ruleKey, "name")){
+        check=2;
+    }
+    for(int i=0;i<itemsSize;i++){
+        if(!strcmp(items[i][check],ruleValue)){
+            res++;
+        }
+    }
+    return res;
+}
