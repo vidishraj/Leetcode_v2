@@ -204,3 +204,4 @@
 | Valid Parentheses | 5.62% | 5.85% | EASY |
 | Sqrt(x) | 100.00% | 100.00% | EASY |
 | Maximum Number of Words Found in Sentences | 5.96% | 100.00% | EASY |
+| A Number After a Double Reversal | 0.00% | 100.00% | EASY |
