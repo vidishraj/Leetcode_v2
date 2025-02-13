@@ -236,3 +236,4 @@
 | Permutations | 14.15% | 100.00% | MEDIUM |
 | Permutations II | 8.61% | 7.89% | MEDIUM |
 | Kth Largest Element in an Array | 97.12% | 100.00% | MEDIUM |
+| Verifying an Alien Dictionary | 7.27% | 100.00% | EASY |
