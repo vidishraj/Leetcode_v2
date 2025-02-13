@@ -214,3 +214,4 @@
 | Binary Tree Preorder Traversal | 100.00% | 99.88% | EASY |
 | Path Sum | 2.07% | 94.74% | EASY |
 | Same Tree | 100.00% | 99.97% | EASY |
+| Minimum Depth of Binary Tree | 5.47% | 99.83% | EASY |
