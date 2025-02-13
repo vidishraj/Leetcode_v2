@@ -202,3 +202,4 @@
 | Running Sum of 1d Array | 100.00% | 100.00% | EASY |
 | Merge Two Sorted Lists | 1.35% | 99.95% | EASY |
 | Valid Parentheses | 5.62% | 5.85% | EASY |
+| Sqrt(x) | 100.00% | 100.00% | EASY |
