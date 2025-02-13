@@ -279,3 +279,4 @@
 | Add Binary | 5.08% | 100.00% | EASY |
 | Implement Queue using Stacks | 100.00% | 100.00% | EASY |
 | Power of Two | 100.00% | 100.00% | EASY |
+| Implement Stack using Queues | 100.00% | 100.00% | EASY |
