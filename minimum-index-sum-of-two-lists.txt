@@ -1,0 +1,35 @@
+
+
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+char ** findRestaurant(char ** list1, int list1Size, char ** list2, int list2Size, int* returnSize){
+ int index=0;  // to add elements to res
+    int min=-1;   
+    for(int i=0;i<list1Size;i++){
+        char *temp=(char*)malloc(1024);
+        strcpy(temp,list1[i]);  //iterate over list2 with words of list 1, one by one
+        for(int j=0;j<list2Size;j++){
+            if(!strcmp(temp,list2[j])){ //strcmp returns 0 for equal strings, hence !0==1
+                if(min==-1){
+                list1[index]=temp;
+                index++;
+                min=i+j;
+                }
+                else if(i+j<=min){
+                    if(i+j<min){
+                        index--;
+                        list1[index]=temp;
+                        index++;
+                    }
+                    else{
+                    list1[index]=temp;
+                    index++;
+                    }
+                }
+            }
+        }
+    }
+   *returnSize=index;
+    return list1;
+}
