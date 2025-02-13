@@ -205,3 +205,4 @@
 | Sqrt(x) | 100.00% | 100.00% | EASY |
 | Maximum Number of Words Found in Sentences | 5.96% | 100.00% | EASY |
 | A Number After a Double Reversal | 0.00% | 100.00% | EASY |
+| Populating Next Right Pointers in Each Node | 7.25% | 99.94% | MEDIUM |
