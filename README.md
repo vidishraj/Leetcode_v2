@@ -304,3 +304,4 @@
 | Second Highest Salary | 100.00% | 100.00% | MEDIUM |
 | Validate Binary Search Tree | 100.00% | 100.00% | MEDIUM |
 | Binary Tree Inorder Traversal | 100.00% | 100.00% | EASY |
+| Count the Number of Consistent Strings | 10.28% | 5.14% | EASY |
