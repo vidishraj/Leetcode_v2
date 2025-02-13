@@ -223,3 +223,4 @@
 | Evaluate Reverse Polish Notation | 7.39% | 100.00% | MEDIUM |
 | Sort List | 5.53% | 99.99% | MEDIUM |
 | Fraction to Recurring Decimal | 100.00% | 100.00% | MEDIUM |
+| Factorial Trailing Zeroes | 100.00% | 100.00% | MEDIUM |
