@@ -216,3 +216,4 @@
 | Same Tree | 100.00% | 99.97% | EASY |
 | Minimum Depth of Binary Tree | 5.47% | 99.83% | EASY |
 | Remove Duplicates from Sorted List | 1.43% | 99.97% | EASY |
+| Combine Two Tables | 99.73% | 100.00% | EASY |
