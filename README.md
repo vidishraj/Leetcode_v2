@@ -302,3 +302,4 @@
 | Rank Scores | 100.00% | 100.00% | MEDIUM |
 | Nth Highest Salary | 100.00% | 100.00% | MEDIUM |
 | Second Highest Salary | 100.00% | 100.00% | MEDIUM |
+| Validate Binary Search Tree | 100.00% | 100.00% | MEDIUM |
