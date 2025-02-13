@@ -301,3 +301,4 @@
 | Check if All the Integers in a Range Are Covered | 5.83% | 100.00% | EASY |
 | Rank Scores | 100.00% | 100.00% | MEDIUM |
 | Nth Highest Salary | 100.00% | 100.00% | MEDIUM |
+| Second Highest Salary | 100.00% | 100.00% | MEDIUM |
