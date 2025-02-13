@@ -270,3 +270,4 @@
 | Longest Palindrome | 9.55% | 100.00% | EASY |
 | Third Maximum Number | 28.88% | 100.00% | EASY |
 | Add Strings | 26.37% | 100.00% | EASY |
+| Number of Segments in a String | 0.00% | 100.00% | EASY |
