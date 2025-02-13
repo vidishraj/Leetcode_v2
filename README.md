@@ -288,3 +288,4 @@
 | Populating Next Right Pointers in Each Node II | 68.26% | 99.96% | MEDIUM |
 | Shortest Path in Binary Matrix | 32.59% | 100.00% | MEDIUM |
 | Subsets | 100.00% | 100.00% | MEDIUM |
+| Number of Provinces | 5.99% | 100.00% | MEDIUM |
