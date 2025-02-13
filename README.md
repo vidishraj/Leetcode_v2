@@ -283,3 +283,4 @@
 | Fibonacci Number | 78.83% | 100.00% | EASY |
 | Backspace String Compare | 11.67% | 100.00% | EASY |
 | Palindrome Linked List | 5.40% | 30.67% | EASY |
+| Single Number | 5.19% | 99.93% | EASY |
