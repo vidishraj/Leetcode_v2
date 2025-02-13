@@ -275,3 +275,4 @@
 | Range Sum Query - Immutable | 5.39% | 100.00% | EASY |
 | Power of Four | 100.00% | 100.00% | EASY |
 | Counting Bits | 24.56% | 100.00% | EASY |
+| Number of 1 Bits | 0.90% | 100.00% | EASY |
