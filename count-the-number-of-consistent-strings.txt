@@ -1,0 +1,32 @@
+int hash(char c){
+    return c%26;
+}
+
+int countConsistentStrings(char * allowed, char ** words, int wordsSize){
+int *gmap=(int*)malloc(sizeof(int)*26);
+memset(gmap, 0, 26*4);
+int count=0;
+for(int j=0;j<strlen(allowed);j++){
+    int val=hash(allowed[j]);
+    gmap[val]=1;
+ }
+for(int i=0;i<wordsSize;i++){
+    int* map=(int*)malloc(sizeof(int)*26);
+    memset(map, 0, 26*4);
+    for(int j=0;j<strlen(words[i]);j++){
+        int val=hash(words[i][j]);
+        map[val]=1;
+    }
+    int flag=0;
+    for(int k=0;k<26;k++){
+        if(gmap[k]==0 && map[k]==1){
+            flag=1;
+            k=50;
+        }
+    }
+    if(flag==1){
+        count++;
+    }
+ }
+    return wordsSize-count;
+}
