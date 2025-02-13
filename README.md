@@ -215,3 +215,4 @@
 | Path Sum | 2.07% | 94.74% | EASY |
 | Same Tree | 100.00% | 99.97% | EASY |
 | Minimum Depth of Binary Tree | 5.47% | 99.83% | EASY |
+| Remove Duplicates from Sorted List | 1.43% | 99.97% | EASY |
