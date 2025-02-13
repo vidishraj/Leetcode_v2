@@ -320,3 +320,4 @@
 | Plus One | 100.00% | 100.00% | EASY |
 | Intersection of Two Linked Lists | 5.34% | 100.00% | EASY |
 | Reverse String | 2.53% | 100.00% | EASY |
+| Maximal Square | 18.99% | 12.32% | MEDIUM |
