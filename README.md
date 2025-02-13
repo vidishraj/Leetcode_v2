@@ -295,3 +295,4 @@
 | Find All Anagrams in a String | 10.44% | 100.00% | MEDIUM |
 | Remove Duplicates from Sorted List II | 2.16% | 100.00% | MEDIUM |
 | Interval List Intersections | 5.05% | 100.00% | MEDIUM |
+| N-th Tribonacci Number | 100.00% | 100.00% | EASY |
