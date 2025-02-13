@@ -263,3 +263,4 @@
 | Subsets II | 22.07% | 100.00% | MEDIUM |
 | Balanced Binary Tree | 8.93% | 99.98% | EASY |
 | Binary Tree Zigzag Level Order Traversal | 2.38% | 99.99% | MEDIUM |
+| Majority Element II | 3.88% | 100.00% | MEDIUM |
