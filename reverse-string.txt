@@ -1,0 +1,16 @@
+
+
+void reverseString(char* s, int sSize){
+    char *temp;// to hold the string
+    int j=sSize-1;
+    for(int i=0;i!=j;i++){
+        temp=s[i];
+        s[i]=s[j];
+        s[j]=temp;
+        j--;
+        if(i==j){
+            return;
+        }
+    }
+
+}
