@@ -232,3 +232,4 @@
 | Intersection of Two Arrays II | 5.31% | 100.00% | EASY |
 | Binary Tree Level Order Traversal | 14.58% | 100.00% | MEDIUM |
 | Sort Colors | 100.00% | 99.98% | MEDIUM |
+| Merge Intervals | 9.11% | 100.00% | MEDIUM |
