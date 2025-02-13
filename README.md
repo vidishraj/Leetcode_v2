@@ -285,3 +285,4 @@
 | Palindrome Linked List | 5.40% | 30.67% | EASY |
 | Single Number | 5.19% | 99.93% | EASY |
 | All Paths From Source to Target | 6.80% | 53.85% | MEDIUM |
+| Populating Next Right Pointers in Each Node II | 68.26% | 99.96% | MEDIUM |
