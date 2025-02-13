@@ -213,3 +213,4 @@
 | Binary Tree Postorder Traversal | 100.00% | 100.00% | EASY |
 | Binary Tree Preorder Traversal | 100.00% | 99.88% | EASY |
 | Path Sum | 2.07% | 94.74% | EASY |
+| Same Tree | 100.00% | 99.97% | EASY |
