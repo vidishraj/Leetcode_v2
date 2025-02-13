@@ -267,3 +267,4 @@
 | Rotate String | 1.21% | 100.00% | EASY |
 | Binary Tree Paths | 100.00% | 100.00% | EASY |
 | Divide a String Into Groups of Size k | 100.00% | 100.00% | EASY |
+| Longest Palindrome | 9.55% | 100.00% | EASY |
