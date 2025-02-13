@@ -262,3 +262,4 @@
 | Arithmetic Slices | 100.00% | 100.00% | MEDIUM |
 | Subsets II | 22.07% | 100.00% | MEDIUM |
 | Balanced Binary Tree | 8.93% | 99.98% | EASY |
+| Binary Tree Zigzag Level Order Traversal | 2.38% | 99.99% | MEDIUM |
