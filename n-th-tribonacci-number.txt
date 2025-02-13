@@ -1,0 +1,23 @@
+
+
+int tribonacci(int n){
+    if(n==0){
+        return 0;
+    }
+    if(n==1){
+        return 1;
+    }
+    if(n==2){
+        return 1;
+    }
+    int temp[n+1];
+    temp[0]=0;
+    temp[1]=1;
+    temp[2]=1;
+    int i=3;
+    while(i<=n){
+        temp[i]=temp[i-1]+temp[i-2]+temp[i-3];
+        i++;
+    }
+    return temp[n];
+}
