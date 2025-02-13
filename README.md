@@ -235,3 +235,4 @@
 | Merge Intervals | 9.11% | 100.00% | MEDIUM |
 | Permutations | 14.15% | 100.00% | MEDIUM |
 | Permutations II | 8.61% | 7.89% | MEDIUM |
+| Kth Largest Element in an Array | 97.12% | 100.00% | MEDIUM |
