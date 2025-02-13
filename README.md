@@ -226,3 +226,4 @@
 | Factorial Trailing Zeroes | 100.00% | 100.00% | MEDIUM |
 | Intersection of Two Arrays | 24.71% | 100.00% | EASY |
 | Pow(x, n) | 3.44% | 100.00% | MEDIUM |
+| Longest Increasing Subsequence | 27.45% | 100.00% | MEDIUM |
