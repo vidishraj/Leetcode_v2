@@ -308,3 +308,4 @@
 | Count Items Matching a Rule | 3.03% | 100.00% | EASY |
 | Min Stack | 5.27% | 100.00% | MEDIUM |
 | Keyboard Row | 100.00% | 100.00% | EASY |
+| Minimum Index Sum of Two Lists | 75.43% | 5.26% | EASY |
