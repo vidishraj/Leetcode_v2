@@ -312,3 +312,4 @@
 | Remove One Element to Make the Array Strictly Increasing | 9.25% | 100.00% | EASY |
 | Minimum Difference Between Highest and Lowest of K Scores | 23.72% | 100.00% | EASY |
 | Plus One | 100.00% | 100.00% | EASY |
+| Intersection of Two Linked Lists | 5.34% | 100.00% | EASY |
