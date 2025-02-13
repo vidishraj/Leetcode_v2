@@ -291,3 +291,4 @@
 | Number of Provinces | 5.99% | 100.00% | MEDIUM |
 | Min Cost Climbing Stairs | 6.77% | 100.00% | EASY |
 | House Robber | 100.00% | 100.00% | MEDIUM |
+| Subarray Product Less Than K | 11.63% | 100.00% | MEDIUM |
