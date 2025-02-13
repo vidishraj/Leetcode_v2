@@ -228,3 +228,4 @@
 | Pow(x, n) | 3.44% | 100.00% | MEDIUM |
 | Longest Increasing Subsequence | 27.45% | 100.00% | MEDIUM |
 | Fizz Buzz | 0.92% | 100.00% | EASY |
+| First Unique Character in a String | 5.62% | 100.00% | EASY |
