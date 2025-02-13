@@ -234,3 +234,4 @@
 | Sort Colors | 100.00% | 99.98% | MEDIUM |
 | Merge Intervals | 9.11% | 100.00% | MEDIUM |
 | Permutations | 14.15% | 100.00% | MEDIUM |
+| Permutations II | 8.61% | 7.89% | MEDIUM |
