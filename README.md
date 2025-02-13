@@ -303,3 +303,4 @@
 | Nth Highest Salary | 100.00% | 100.00% | MEDIUM |
 | Second Highest Salary | 100.00% | 100.00% | MEDIUM |
 | Validate Binary Search Tree | 100.00% | 100.00% | MEDIUM |
+| Binary Tree Inorder Traversal | 100.00% | 100.00% | EASY |
