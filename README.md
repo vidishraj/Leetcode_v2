@@ -251,3 +251,4 @@
 | Count Square Submatrices with All Ones | 6.17% | 100.00% | MEDIUM |
 | Count Sorted Vowel Strings | 100.00% | 100.00% | MEDIUM |
 | Get Maximum in Generated Array | 100.00% | 100.00% | EASY |
+| Pascal's Triangle II | 100.00% | 100.00% | EASY |
