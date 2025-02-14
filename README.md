@@ -323,3 +323,4 @@
 | Maximal Square | 18.99% | 12.32% | MEDIUM |
 | Number of Orders in the Backlog | 77.61% | 83.68% | MEDIUM |
 | Sum of Matrix After Queries | 80.89% | 12.35% | MEDIUM |
+| Sort Matrix by Diagonals | 5.38% | 50.49% | MEDIUM |
