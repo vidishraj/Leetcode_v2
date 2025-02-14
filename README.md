@@ -325,3 +325,4 @@
 | Sum of Matrix After Queries | 80.89% | 12.35% | MEDIUM |
 | Sort Matrix by Diagonals | 5.38% | 50.49% | MEDIUM |
 | Decremental String Concatenation | 75.67% | 6.75% | MEDIUM |
+| Product of the Last K Numbers | 14.15% | 5.63% | MEDIUM |
