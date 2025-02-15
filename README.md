@@ -326,3 +326,4 @@
 | Sort Matrix by Diagonals | 5.38% | 50.49% | MEDIUM |
 | Decremental String Concatenation | 75.67% | 6.75% | MEDIUM |
 | Product of the Last K Numbers | 14.15% | 5.63% | MEDIUM |
+| Find the Punishment Number of an Integer | 34.82% | 40.17% | MEDIUM |
