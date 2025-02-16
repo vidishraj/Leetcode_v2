@@ -329,3 +329,4 @@
 | Find the Punishment Number of an Integer | 34.82% | 40.17% | MEDIUM |
 | Spiral Matrix II | 100.00% | 44.51% | MEDIUM |
 | Find Special Substring of Length K | 100.00% | 100.00% | EASY |
+| Eat Pizzas! | 100.00% | 33.33% | MEDIUM |
