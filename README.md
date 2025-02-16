@@ -331,3 +331,4 @@
 | Find Special Substring of Length K | 100.00% | 100.00% | EASY |
 | Eat Pizzas! | 100.00% | 33.33% | MEDIUM |
 | Shortest Completing Word | 12.33% | 28.49% | EASY |
+| Construct the Lexicographically Largest Valid Sequence | 95.31% | 64.06% | MEDIUM |
