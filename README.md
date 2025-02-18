@@ -338,3 +338,4 @@
 | Letter Tile Possibilities | 14.49% | 6.91% | MEDIUM |
 | Global and Local Inversions | 70.23% | 96.42% | MEDIUM |
 | Cheapest Flights Within K Stops | 37.46% | 25.59% | MEDIUM |
+| Construct Smallest Number From DI String | 20.49% | 83.22% | MEDIUM |
