@@ -341,3 +341,4 @@
 | Construct Smallest Number From DI String | 20.49% | 83.22% | MEDIUM |
 | 4Sum | 9.81% | 38.92% | MEDIUM |
 | Minimum Operations to Exceed Threshold Value II | 18.78% | 8.37% | MEDIUM |
+| The k-th Lexicographical String of All Happy Strings of Length n | 55.79% | 82.93% | MEDIUM |
