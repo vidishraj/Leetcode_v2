@@ -340,3 +340,4 @@
 | Cheapest Flights Within K Stops | 37.46% | 25.59% | MEDIUM |
 | Construct Smallest Number From DI String | 20.49% | 83.22% | MEDIUM |
 | 4Sum | 9.81% | 38.92% | MEDIUM |
+| Minimum Operations to Exceed Threshold Value II | 18.78% | 8.37% | MEDIUM |
