@@ -343,3 +343,4 @@
 | Minimum Operations to Exceed Threshold Value II | 18.78% | 8.37% | MEDIUM |
 | The k-th Lexicographical String of All Happy Strings of Length n | 55.79% | 82.93% | MEDIUM |
 | Remove All Occurrences of a Substring | 100.00% | 77.58% | MEDIUM |
+| Max Sum of a Pair With Equal Sum of Digits | 99.93% | 22.60% | MEDIUM |
