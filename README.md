@@ -345,3 +345,4 @@
 | Remove All Occurrences of a Substring | 100.00% | 77.58% | MEDIUM |
 | Max Sum of a Pair With Equal Sum of Digits | 99.93% | 22.60% | MEDIUM |
 | Pyramid Transition Matrix | 48.55% | 6.24% | MEDIUM |
+| Recover a Tree From Preorder Traversal | 64.41% | 38.52% | HARD |
