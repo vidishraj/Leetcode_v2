@@ -346,3 +346,4 @@
 | Max Sum of a Pair With Equal Sum of Digits | 99.93% | 22.60% | MEDIUM |
 | Pyramid Transition Matrix | 48.55% | 6.24% | MEDIUM |
 | Recover a Tree From Preorder Traversal | 64.41% | 38.52% | HARD |
+| Most Popular Video Creator | 34.19% | 16.06% | MEDIUM |
