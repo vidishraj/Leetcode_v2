@@ -348,3 +348,4 @@
 | Recover a Tree From Preorder Traversal | 64.41% | 38.52% | HARD |
 | Most Popular Video Creator | 34.19% | 16.06% | MEDIUM |
 | Find Elements in a Contaminated Binary Tree | 13.06% | 10.93% | MEDIUM |
+| Find Unique Binary String | 23.67% | 66.21% | MEDIUM |
