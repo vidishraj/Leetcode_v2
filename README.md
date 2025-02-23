@@ -350,3 +350,4 @@
 | Find Elements in a Contaminated Binary Tree | 13.06% | 10.93% | MEDIUM |
 | Find Unique Binary String | 23.67% | 66.21% | MEDIUM |
 | Maximum Sum With at Most K Elements | 100.00% | 100.00% | MEDIUM |
+| Check If Digits Are Equal in String After Operations I | 100.00% | 100.00% | EASY |
