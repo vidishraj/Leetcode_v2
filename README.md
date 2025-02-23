@@ -1,11 +1,11 @@
 ## 📊 LeetCode Summary
-**Total questions done: 340**
+**Total questions done: 342**
 
 | Difficulty | Total Questions | Avg Runtime | Avg Memory |
 |------------|----------------|-------------|------------|
-|  EASY  | 140 | 30.09% | 88.09% |
+|  EASY  | 141 | 30.59% | 88.17% |
 |  HARD  | 6 | 16.86% | 61.72% |
-|  MEDIUM  | 194 | 29.68% | 72.47% |
+|  MEDIUM  | 195 | 30.05% | 72.61% |
 
 | Problem | Runtime Percentile | Memory Percentile | Difficulty |
 |---------|-------------------|-------------------|-------------------|
