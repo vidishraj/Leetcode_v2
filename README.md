@@ -352,3 +352,4 @@
 | Maximum Sum With at Most K Elements | 100.00% | 100.00% | MEDIUM |
 | Check If Digits Are Equal in String After Operations I | 100.00% | 100.00% | EASY |
 | Number of Sub-arrays With Odd Sum | 50.86% | 67.46% | MEDIUM |
+| Find Mode in Binary Search Tree | 79.11% | 91.51% | EASY |
