@@ -354,3 +354,4 @@
 | Number of Sub-arrays With Odd Sum | 50.86% | 67.46% | MEDIUM |
 | Find Mode in Binary Search Tree | 79.11% | 91.51% | EASY |
 | Insert Interval | 100.00% | 99.24% | MEDIUM |
+| Count Total Number of Colored Cells | 100.00% | 30.45% | MEDIUM |
