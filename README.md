@@ -356,3 +356,4 @@
 | Insert Interval | 100.00% | 99.24% | MEDIUM |
 | Count Total Number of Colored Cells | 100.00% | 30.45% | MEDIUM |
 | Triangle | 86.93% | 27.45% | MEDIUM |
+| Number of Ways to Arrive at Destination | 68.43% | 52.91% | MEDIUM |
