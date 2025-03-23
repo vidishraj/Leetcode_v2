@@ -358,3 +358,4 @@
 | Triangle | 86.93% | 27.45% | MEDIUM |
 | Number of Ways to Arrive at Destination | 68.43% | 52.91% | MEDIUM |
 | Properties Graph | 11.68% | 82.50% | MEDIUM |
+| Maximum Containers on a Ship | 100.00% | 64.88% | EASY |
