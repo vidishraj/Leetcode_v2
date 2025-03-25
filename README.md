@@ -360,3 +360,4 @@
 | Properties Graph | 11.68% | 82.50% | MEDIUM |
 | Maximum Containers on a Ship | 100.00% | 64.88% | EASY |
 | Count Days Without Meetings | 45.84% | 55.41% | MEDIUM |
+| Check if Grid can be Cut into Sections | 17.56% | 88.51% | MEDIUM |
