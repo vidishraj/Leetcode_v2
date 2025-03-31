@@ -370,3 +370,4 @@
 | Minimum Cost to Reach Every Position | 50.00% | 100.00% | EASY |
 | Reverse Degree of a String | 0.00% | 100.00% | EASY |
 | Interleaving String | 5.30% | 5.80% | MEDIUM |
+| Minimum Operations to Make a Uni-Value Grid | 44.51% | 52.87% | MEDIUM |
