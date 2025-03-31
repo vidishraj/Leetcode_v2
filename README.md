@@ -366,3 +366,4 @@
 | Flatten Binary Tree to Linked List | 100.00% | 93.56% | MEDIUM |
 | Rotate List | 100.00% | 85.59% | MEDIUM |
 | Partition Labels | 91.25% | 14.46% | MEDIUM |
+| Longest Palindrome After Substring Concatenation I | 100.00% | 100.00% | MEDIUM |
