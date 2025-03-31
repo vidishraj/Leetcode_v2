@@ -363,3 +363,4 @@
 | Check if Grid can be Cut into Sections | 17.56% | 88.51% | MEDIUM |
 | Binary Search Tree Iterator | 54.35% | 57.42% | MEDIUM |
 | Sum Root to Leaf Numbers | 100.00% | 58.64% | MEDIUM |
+| Flatten Binary Tree to Linked List | 100.00% | 93.56% | MEDIUM |
