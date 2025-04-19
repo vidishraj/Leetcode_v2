@@ -378,3 +378,4 @@
 | Smallest Palindromic Rearrangement I | 5.01% | 5.98% | MEDIUM |
 | Find Closest Person | 100.00% | 17.84% | EASY |
 | Number of Unique XOR Triplets II | 22.09% | 98.60% | MEDIUM |
+| Minimum Operations to Make Array Sum Divisible by K | 40.06% | 55.80% | EASY |
