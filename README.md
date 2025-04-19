@@ -383,3 +383,4 @@
 | Minimum Number of Operations to Make Elements in Array Distinct | 12.59% | 27.88% | EASY |
 | Partition Equal Subset Sum | 44.03% | 13.22% | MEDIUM |
 | Largest Divisible Subset | 56.56% | 73.16% | MEDIUM |
+| Combination Sum | 20.75% | 62.08% | MEDIUM |
