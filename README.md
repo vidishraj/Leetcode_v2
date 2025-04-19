@@ -385,3 +385,4 @@
 | Largest Divisible Subset | 56.56% | 73.16% | MEDIUM |
 | Combination Sum | 20.75% | 62.08% | MEDIUM |
 | Minimum Pair Removal to Sort Array I | 12.49% | 65.50% | EASY |
+| Implement Router | 38.00% | 34.53% | MEDIUM |
