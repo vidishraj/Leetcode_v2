@@ -375,3 +375,4 @@
 | Reverse Linked List II | 100.00% | 86.24% | MEDIUM |
 | Count the Number of Fair Pairs | 88.92% | 86.75% | MEDIUM |
 | Delete Nodes And Return Forest | 5.05% | 39.24% | MEDIUM |
+| Smallest Palindromic Rearrangement I | 5.01% | 5.98% | MEDIUM |
