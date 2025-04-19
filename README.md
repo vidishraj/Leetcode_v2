@@ -386,3 +386,4 @@
 | Combination Sum | 20.75% | 62.08% | MEDIUM |
 | Minimum Pair Removal to Sort Array I | 12.49% | 65.50% | EASY |
 | Implement Router | 38.00% | 34.53% | MEDIUM |
+| Lowest Common Ancestor of Deepest Leaves | 6.13% | 5.35% | MEDIUM |
