@@ -374,3 +374,4 @@
 | Solving Questions With Brainpower | 57.55% | 91.46% | MEDIUM |
 | Reverse Linked List II | 100.00% | 86.24% | MEDIUM |
 | Count the Number of Fair Pairs | 88.92% | 86.75% | MEDIUM |
+| Delete Nodes And Return Forest | 5.05% | 39.24% | MEDIUM |
