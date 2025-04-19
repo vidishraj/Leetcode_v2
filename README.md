@@ -373,3 +373,4 @@
 | Minimum Operations to Make a Uni-Value Grid | 44.51% | 52.87% | MEDIUM |
 | Solving Questions With Brainpower | 57.55% | 91.46% | MEDIUM |
 | Reverse Linked List II | 100.00% | 86.24% | MEDIUM |
+| Count the Number of Fair Pairs | 88.92% | 86.75% | MEDIUM |
