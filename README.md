@@ -381,3 +381,4 @@
 | Minimum Operations to Make Array Sum Divisible by K | 40.06% | 55.80% | EASY |
 |   Count Symmetric Integers | 59.34% | 94.56% | EASY |
 | Minimum Number of Operations to Make Elements in Array Distinct | 12.59% | 27.88% | EASY |
+| Partition Equal Subset Sum | 44.03% | 13.22% | MEDIUM |
