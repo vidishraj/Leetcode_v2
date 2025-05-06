@@ -225,3 +225,4 @@
 | Sort Integers by The Power Value | 48.23% | 45.24% | MEDIUM |
 | Count Complete Tree Nodes | 0.75% | 10.29% | EASY |
 | Maximum Product Difference Between Two Pairs | 5.57% | 100.00% | EASY |
+| Symmetric Tree | 1.44% | 99.94% | EASY |
