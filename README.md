@@ -164,3 +164,4 @@
 | Find First Palindromic String in the Array | 5.73% | 100.00% | EASY |
 | Valid Sudoku | 5.01% | 100.00% | MEDIUM |
 | 3Sum | 25.91% | 5.64% | MEDIUM |
+| Two Sum II - Input Array Is Sorted | 2.68% | 100.00% | MEDIUM |
