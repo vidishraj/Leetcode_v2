@@ -216,3 +216,4 @@
 | Fizz Buzz | 0.54% | 100.00% | EASY |
 | First Unique Character in a String | 5.43% | 100.00% | EASY |
 | Intersection of Two Arrays II | 5.27% | 100.00% | EASY |
+| Binary Tree Level Order Traversal | 14.10% | 100.00% | MEDIUM |
