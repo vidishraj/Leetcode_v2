@@ -92,3 +92,4 @@
 | Valid Palindrome II | 59.92% | 30.58% | EASY |
 | Unique Paths | 100.00% | 99.99% | MEDIUM |
 | Maximum Subarray | 61.03% | 99.95% | MEDIUM |
+| Jump Game II | 24.68% | 100.00% | MEDIUM |
