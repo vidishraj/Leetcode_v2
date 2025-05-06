@@ -141,3 +141,4 @@
 | Maximum Number of Operations With the Same Score II | 35.81% | 71.64% | MEDIUM |
 | Maximum Number of Operations With the Same Score I | 0.45% | 100.00% | EASY |
 | Count Prefix and Suffix Pairs I | 5.05% | 100.00% | EASY |
+| Most Frequent Prime | 5.49% | 100.00% | MEDIUM |
