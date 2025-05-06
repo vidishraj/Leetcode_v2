@@ -55,3 +55,4 @@
 | Maximal Square | 18.91% | 12.71% | MEDIUM |
 | Longest Increasing Subsequence | 25.21% | 100.00% | MEDIUM |
 | House Robber | 100.00% | 82.76% | MEDIUM |
+| Word Break | 5.01% | 6.08% | MEDIUM |
