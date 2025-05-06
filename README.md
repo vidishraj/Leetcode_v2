@@ -46,3 +46,4 @@
 | Lowest Common Ancestor of Deepest Leaves | 6.05% | 5.32% | MEDIUM |
 | Maximum Value of an Ordered Triplet II | 51.25% | 88.09% | MEDIUM |
 | Solving Questions With Brainpower | 46.87% | 90.28% | MEDIUM |
+| Reverse Linked List II | 100.00% | 85.42% | MEDIUM |
