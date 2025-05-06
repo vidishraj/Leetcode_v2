@@ -197,3 +197,4 @@
 | Populating Next Right Pointers in Each Node | 7.40% | 100.00% | MEDIUM |
 | Linked List Cycle | 5.80% | 99.99% | EASY |
 | Middle of the Linked List | 100.00% | 100.00% | EASY |
+| Remove Linked List Elements | 2.12% | 100.00% | EASY |
