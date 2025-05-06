@@ -234,3 +234,4 @@
 | Number of Good Ways to Split a String | 5.08% | 14.08% | MEDIUM |
 | Count Square Submatrices with All Ones | 6.47% | 100.00% | MEDIUM |
 | Wildcard Matching | 5.65% | 41.38% | HARD |
+| Count Sorted Vowel Strings | 100.00% | 100.00% | MEDIUM |
