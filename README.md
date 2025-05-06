@@ -129,3 +129,4 @@
 | Water Bottles II | 92.98% | 100.00% | MEDIUM |
 | Harshad Number | 0.00% | 100.00% | EASY |
 | Distribute Elements Into Two Arrays I | 1.29% | 100.00% | EASY |
+| Minimum Operations to Write the Letter Y on a Grid | 5.01% | 100.00% | MEDIUM |
