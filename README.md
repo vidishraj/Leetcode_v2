@@ -57,3 +57,4 @@
 | House Robber | 100.00% | 82.76% | MEDIUM |
 | Word Break | 5.01% | 6.08% | MEDIUM |
 | Unique Paths II | 36.05% | 29.46% | MEDIUM |
+| Minimum Path Sum | 66.24% | 20.73% | MEDIUM |
