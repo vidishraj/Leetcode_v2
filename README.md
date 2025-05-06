@@ -130,3 +130,4 @@
 | Harshad Number | 0.00% | 100.00% | EASY |
 | Distribute Elements Into Two Arrays I | 1.29% | 100.00% | EASY |
 | Minimum Operations to Write the Letter Y on a Grid | 5.01% | 100.00% | MEDIUM |
+| Minimum Impossible OR | 5.69% | 17.07% | MEDIUM |
