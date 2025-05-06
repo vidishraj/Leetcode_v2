@@ -173,3 +173,4 @@
 | Find the Index of the First Occurrence in a String | 5.77% | 100.00% | EASY |
 | Longest Common Prefix | 100.00% | 100.00% | EASY |
 | Length of Last Word | 0.43% | 100.00% | EASY |
+| Candy | 8.98% | 99.37% | HARD |
