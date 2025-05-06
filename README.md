@@ -69,3 +69,4 @@
 | Letter Tile Possibilities | 12.68% | 9.29% | MEDIUM |
 | Check if There is a Valid Partition For The Array | 5.04% | 5.26% | MEDIUM |
 | Largest Number | 53.75% | 17.96% | MEDIUM |
+| Invalid Transactions | 84.51% | 8.92% | MEDIUM |
