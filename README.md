@@ -134,3 +134,4 @@
 | Minimum Time to Revert Word to Initial State I | 0.00% | 100.00% | MEDIUM |
 | Apply Operations to Make String Empty | 26.42% | 11.42% | MEDIUM |
 | Maximum Odd Binary Number | 6.68% | 100.00% | EASY |
+| Find the Prefix Common Array of Two Arrays | 5.07% | 100.00% | MEDIUM |
