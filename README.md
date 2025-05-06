@@ -71,3 +71,4 @@
 | Largest Number | 53.75% | 17.96% | MEDIUM |
 | Invalid Transactions | 84.51% | 8.92% | MEDIUM |
 | Construct the Lexicographically Largest Valid Sequence | 92.89% | 69.34% | MEDIUM |
+| Find Special Substring of Length K | 100.00% | 59.31% | EASY |
