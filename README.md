@@ -43,3 +43,4 @@
 | Permutations | 100.00% | 57.32% | MEDIUM |
 | Minimum Pair Removal to Sort Array I | 12.77% | 65.34% | EASY |
 | Implement Router | 39.15% | 32.87% | MEDIUM |
+| Lowest Common Ancestor of Deepest Leaves | 6.05% | 5.32% | MEDIUM |
