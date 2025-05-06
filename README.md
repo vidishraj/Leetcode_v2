@@ -196,3 +196,4 @@
 | A Number After a Double Reversal | 0.08% | 100.00% | EASY |
 | Populating Next Right Pointers in Each Node | 7.40% | 100.00% | MEDIUM |
 | Linked List Cycle | 5.80% | 99.99% | EASY |
+| Middle of the Linked List | 100.00% | 100.00% | EASY |
