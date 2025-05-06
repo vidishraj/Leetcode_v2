@@ -32,3 +32,4 @@
 | Minimum Operations to Make Array Sum Divisible by K | 39.05% | 54.96% | EASY |
 | Factorial Trailing Zeroes | 100.00% | 100.00% | MEDIUM |
 | Sqrt(x) | 9.89% | 51.96% | EASY |
+| Plus One | 3.90% | 99.64% | EASY |
