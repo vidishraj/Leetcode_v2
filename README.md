@@ -40,3 +40,4 @@
 | Divide a String Into Groups of Size k | 100.00% | 39.60% | EASY |
 | Largest Divisible Subset | 56.49% | 73.31% | MEDIUM |
 | Combination Sum | 20.29% | 61.88% | MEDIUM |
+| Permutations | 100.00% | 57.32% | MEDIUM |
