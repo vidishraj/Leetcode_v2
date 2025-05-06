@@ -87,3 +87,4 @@
 | Flip String to Monotone Increasing | 75.36% | 47.57% | MEDIUM |
 | Mini Parser | 93.18% | 97.27% | MEDIUM |
 | Path with Maximum Gold | 15.59% | 31.56% | MEDIUM |
+| Maximum Length of a Concatenated String with Unique Characters | 30.25% | 96.06% | MEDIUM |
