@@ -240,3 +240,4 @@
 | Divisor Game | 100.00% | 100.00% | EASY |
 | Reverse Linked List | 100.00% | 100.00% | EASY |
 | Reverse Bits | 100.00% | 100.00% | EASY |
+| Excel Sheet Column Number | 4.09% | 100.00% | EASY |
