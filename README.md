@@ -61,3 +61,4 @@
 | Partition Labels | 90.92% | 15.76% | MEDIUM |
 | Longest Palindrome After Substring Concatenation I | 77.65% | 95.17% | MEDIUM |
 | Minimum Cost to Reach Every Position | 48.18% | 95.32% | EASY |
+| Reverse Degree of a String | 27.82% | 98.44% | EASY |
