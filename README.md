@@ -53,3 +53,4 @@
 | Rotate List | 100.00% | 85.85% | MEDIUM |
 | Edit Distance | 58.69% | 5.07% | MEDIUM |
 | Maximal Square | 18.91% | 12.71% | MEDIUM |
+| Longest Increasing Subsequence | 25.21% | 100.00% | MEDIUM |
