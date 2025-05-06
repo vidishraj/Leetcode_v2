@@ -41,3 +41,4 @@
 | Largest Divisible Subset | 56.49% | 73.31% | MEDIUM |
 | Combination Sum | 20.29% | 61.88% | MEDIUM |
 | Permutations | 100.00% | 57.32% | MEDIUM |
+| Minimum Pair Removal to Sort Array I | 12.77% | 65.34% | EASY |
