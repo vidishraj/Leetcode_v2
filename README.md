@@ -169,3 +169,4 @@
 | Text Justification | 0.04% | 100.00% | HARD |
 | Zigzag Conversion | 39.69% | 99.41% | MEDIUM |
 | Integer to Roman | 48.78% | 96.54% | MEDIUM |
+| Roman to Integer | 100.00% | 100.00% | EASY |
