@@ -213,3 +213,4 @@
 | Fraction to Recurring Decimal | 100.00% | 100.00% | MEDIUM |
 | Intersection of Two Arrays | 22.71% | 100.00% | EASY |
 | Pow(x, n) | 2.73% | 100.00% | MEDIUM |
+| Fizz Buzz | 0.54% | 100.00% | EASY |
