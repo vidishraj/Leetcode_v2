@@ -183,3 +183,4 @@
 | Best Time to Buy and Sell Stock | 5.17% | 9.01% | EASY |
 | Rotate Array | 12.16% | 5.04% | MEDIUM |
 | Ant on the Boundary | 96.61% | 100.00% | EASY |
+| Number of 1 Bits | 0.79% | 100.00% | EASY |
