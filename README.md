@@ -224,3 +224,4 @@
 | Remove Nth Node From End of List | 0.78% | 99.98% | MEDIUM |
 | Sort Integers by The Power Value | 48.23% | 45.24% | MEDIUM |
 | Count Complete Tree Nodes | 0.75% | 10.29% | EASY |
+| Maximum Product Difference Between Two Pairs | 5.57% | 100.00% | EASY |
