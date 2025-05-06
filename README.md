@@ -59,3 +59,4 @@
 | Unique Paths II | 36.05% | 29.46% | MEDIUM |
 | Minimum Path Sum | 66.24% | 20.73% | MEDIUM |
 | Partition Labels | 90.92% | 15.76% | MEDIUM |
+| Longest Palindrome After Substring Concatenation I | 77.65% | 95.17% | MEDIUM |
