@@ -237,3 +237,4 @@
 | Count Sorted Vowel Strings | 100.00% | 100.00% | MEDIUM |
 | Get Maximum in Generated Array | 100.00% | 100.00% | EASY |
 | Pascal's Triangle II | 100.00% | 100.00% | EASY |
+| Divisor Game | 100.00% | 100.00% | EASY |
