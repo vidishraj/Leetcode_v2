@@ -18,3 +18,4 @@
 | Minimum Sum of Mountain Triplets I | 76.48% | 39.19% | EASY |
 | Make Array Non-decreasing | 19.58% | 71.03% | MEDIUM |
 | Find X Value of Array I | 8.94% | 45.16% | MEDIUM |
+| Calculate Score After Performing Instructions | 5.13% | 11.66% | MEDIUM |
