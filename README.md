@@ -82,3 +82,4 @@
 | Sum of Matrix After Queries | 83.33% | 9.52% | MEDIUM |
 | Number of Orders in the Backlog | 78.71% | 87.69% | MEDIUM |
 | Event Emitter | 6.52% | 100.00% | MEDIUM |
+| Special Array I | 100.00% | 33.70% | EASY |
