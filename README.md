@@ -68,3 +68,4 @@
 | Global and Local Inversions | 66.46% | 97.56% | MEDIUM |
 | Letter Tile Possibilities | 12.68% | 9.29% | MEDIUM |
 | Check if There is a Valid Partition For The Array | 5.04% | 5.26% | MEDIUM |
+| Largest Number | 53.75% | 17.96% | MEDIUM |
