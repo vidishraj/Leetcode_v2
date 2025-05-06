@@ -64,3 +64,4 @@
 | Reverse Degree of a String | 27.82% | 98.44% | EASY |
 | Interleaving String | 5.98% | 5.61% | MEDIUM |
 | Construct Smallest Number From DI String | 19.58% | 85.43% | MEDIUM |
+| Cheapest Flights Within K Stops | 41.47% | 27.54% | MEDIUM |
