@@ -211,3 +211,4 @@
 | Copy List with Random Pointer | 28.93% | 100.00% | MEDIUM |
 | Sort List | 5.35% | 100.00% | MEDIUM |
 | Fraction to Recurring Decimal | 100.00% | 100.00% | MEDIUM |
+| Intersection of Two Arrays | 22.71% | 100.00% | EASY |
