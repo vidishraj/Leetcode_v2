@@ -139,3 +139,4 @@
 | Find First and Last Position of Element in Sorted Array | 0.17% | 100.00% | MEDIUM |
 | Split the Array | 5.10% | 100.00% | EASY |
 | Maximum Number of Operations With the Same Score II | 35.81% | 71.64% | MEDIUM |
+| Maximum Number of Operations With the Same Score I | 0.45% | 100.00% | EASY |
