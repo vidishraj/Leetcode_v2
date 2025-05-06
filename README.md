@@ -178,3 +178,4 @@
 | Perfect Squares | 5.02% | 10.43% | MEDIUM |
 | Gas Station | 5.04% | 100.00% | MEDIUM |
 | Best Time to Buy and Sell Stock II | 16.73% | 100.00% | MEDIUM |
+| H-Index | 100.00% | 100.00% | MEDIUM |
