@@ -167,3 +167,4 @@
 | Two Sum II - Input Array Is Sorted | 2.68% | 100.00% | MEDIUM |
 | Valid Palindrome | 5.06% | 57.58% | EASY |
 | Text Justification | 0.04% | 100.00% | HARD |
+| Zigzag Conversion | 39.69% | 99.41% | MEDIUM |
