@@ -122,3 +122,4 @@
 | Lowest Common Ancestor of a Binary Tree | 5.00% | 5.21% | MEDIUM |
 | Longest ZigZag Path in a Binary Tree | 5.01% | 93.56% | MEDIUM |
 | Path Sum III | 23.90% | 100.00% | MEDIUM |
+| Count Good Nodes in Binary Tree | 89.39% | 99.80% | MEDIUM |
