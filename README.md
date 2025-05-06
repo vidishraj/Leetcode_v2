@@ -51,3 +51,4 @@
 | Sum Root to Leaf Numbers | 100.00% | 57.44% | MEDIUM |
 | Flatten Binary Tree to Linked List | 100.00% | 93.79% | MEDIUM |
 | Rotate List | 100.00% | 85.85% | MEDIUM |
+| Edit Distance | 58.69% | 5.07% | MEDIUM |
