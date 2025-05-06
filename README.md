@@ -144,3 +144,4 @@
 | Most Frequent Prime | 5.49% | 100.00% | MEDIUM |
 | Find the Length of the Longest Common Prefix | 5.03% | 41.50% | MEDIUM |
 | Summary Ranges | 100.00% | 100.00% | EASY |
+| Simplify Path | 5.80% | 100.00% | MEDIUM |
