@@ -27,3 +27,4 @@
 | Count the Number of Fair Pairs | 83.23% | 88.98% | MEDIUM |
 | Delete Nodes And Return Forest | 5.89% | 39.36% | MEDIUM |
 | Smallest Palindromic Rearrangement I | 5.01% | 6.14% | MEDIUM |
+| Find Closest Person | 100.00% | 16.75% | EASY |
