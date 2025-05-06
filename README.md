@@ -24,3 +24,4 @@
 | Evaluate Reverse Polish Notation | 5.00% | 52.18% | MEDIUM |
 | IPO | 26.56% | 87.98% | HARD |
 | Count and Say | 21.68% | 42.25% | MEDIUM |
+| Count the Number of Fair Pairs | 83.23% | 88.98% | MEDIUM |
