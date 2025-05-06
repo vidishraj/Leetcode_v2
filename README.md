@@ -238,3 +238,4 @@
 | Get Maximum in Generated Array | 100.00% | 100.00% | EASY |
 | Pascal's Triangle II | 100.00% | 100.00% | EASY |
 | Divisor Game | 100.00% | 100.00% | EASY |
+| Reverse Linked List | 100.00% | 100.00% | EASY |
