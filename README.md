@@ -21,3 +21,4 @@
 | Calculate Score After Performing Instructions | 5.13% | 11.66% | MEDIUM |
 | Min Stack | 84.27% | 30.38% | MEDIUM |
 | Longest Consecutive Sequence | 8.38% | 15.01% | MEDIUM |
+| Evaluate Reverse Polish Notation | 5.00% | 52.18% | MEDIUM |
