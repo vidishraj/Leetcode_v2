@@ -33,3 +33,4 @@
 | Factorial Trailing Zeroes | 100.00% | 100.00% | MEDIUM |
 | Sqrt(x) | 9.89% | 51.96% | EASY |
 | Plus One | 3.90% | 99.64% | EASY |
+| Palindrome Number | 100.00% | 19.50% | EASY |
