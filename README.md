@@ -175,3 +175,4 @@
 | Length of Last Word | 0.43% | 100.00% | EASY |
 | Candy | 8.98% | 99.37% | HARD |
 | Insert Delete GetRandom O(1) | 21.68% | 9.90% | MEDIUM |
+| Perfect Squares | 5.02% | 10.43% | MEDIUM |
