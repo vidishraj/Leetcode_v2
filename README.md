@@ -207,3 +207,4 @@
 | Remove Duplicates from Sorted List | 1.62% | 99.95% | EASY |
 | Combine Two Tables | 99.17% | 100.00% | EASY |
 | Letter Combinations of a Phone Number | 100.00% | 100.00% | MEDIUM |
+| Search Insert Position | 0.72% | 100.00% | EASY |
