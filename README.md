@@ -15,3 +15,4 @@
 | Unit Conversion I | 9.30% | 29.56% | MEDIUM |
 | Find the Most Common Response | 23.01% | 95.38% | MEDIUM |
 | Number Of Rectangles That Can Form The Largest Square | 55.84% | 23.09% | EASY |
+| Minimum Sum of Mountain Triplets I | 76.48% | 39.19% | EASY |
