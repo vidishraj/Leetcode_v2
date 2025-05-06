@@ -221,3 +221,4 @@
 | Permutations II | 8.19% | 10.07% | MEDIUM |
 | Kth Largest Element in an Array | 96.74% | 100.00% | MEDIUM |
 | Verifying an Alien Dictionary | 8.39% | 100.00% | EASY |
+| Remove Nth Node From End of List | 0.78% | 99.98% | MEDIUM |
