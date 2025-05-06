@@ -188,3 +188,4 @@
 | Implement Queue using Stacks | 100.00% | 100.00% | EASY |
 | Power of Two | 100.00% | 100.00% | EASY |
 | Implement Stack using Queues | 100.00% | 100.00% | EASY |
+| Fibonacci Number | 76.01% | 100.00% | EASY |
