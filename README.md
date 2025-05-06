@@ -128,3 +128,4 @@
 | Count Alternating Subarrays | 5.79% | 100.00% | MEDIUM |
 | Water Bottles II | 92.98% | 100.00% | MEDIUM |
 | Harshad Number | 0.00% | 100.00% | EASY |
+| Distribute Elements Into Two Arrays I | 1.29% | 100.00% | EASY |
