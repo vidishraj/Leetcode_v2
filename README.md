@@ -186,3 +186,4 @@
 | Number of 1 Bits | 0.79% | 100.00% | EASY |
 | Add Binary | 5.50% | 100.00% | EASY |
 | Implement Queue using Stacks | 100.00% | 100.00% | EASY |
+| Power of Two | 100.00% | 100.00% | EASY |
