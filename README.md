@@ -14,3 +14,4 @@
 | Path Existence Queries in a Graph I | 14.20% | 18.38% | MEDIUM |
 | Unit Conversion I | 9.30% | 29.56% | MEDIUM |
 | Find the Most Common Response | 23.01% | 95.38% | MEDIUM |
+| Number Of Rectangles That Can Form The Largest Square | 55.84% | 23.09% | EASY |
