@@ -77,3 +77,4 @@
 | Spiral Matrix II | 100.00% | 47.75% | MEDIUM |
 | Find the Punishment Number of an Integer | 31.66% | 32.66% | MEDIUM |
 | Product of the Last K Numbers | 13.26% | 5.01% | MEDIUM |
+| Decremental String Concatenation | 56.52% | 7.60% | MEDIUM |
