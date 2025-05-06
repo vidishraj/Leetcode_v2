@@ -109,3 +109,4 @@
 | Rotting Oranges | 6.61% | 100.00% | MEDIUM |
 | Nearest Exit from Entrance in Maze | 5.01% | 100.00% | MEDIUM |
 | Find Peak Element | 0.47% | 100.00% | MEDIUM |
+| Koko Eating Bananas | 5.03% | 99.98% | MEDIUM |
