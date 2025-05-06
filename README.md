@@ -136,3 +136,4 @@
 | Maximum Odd Binary Number | 6.68% | 100.00% | EASY |
 | Find the Prefix Common Array of Two Arrays | 5.07% | 100.00% | MEDIUM |
 | Even Odd Tree | 5.33% | 100.00% | MEDIUM |
+| Find First and Last Position of Element in Sorted Array | 0.17% | 100.00% | MEDIUM |
