@@ -182,3 +182,4 @@
 | Maximum Points in an Archery Competition | 19.99% | 9.41% | MEDIUM |
 | Best Time to Buy and Sell Stock | 5.17% | 9.01% | EASY |
 | Rotate Array | 12.16% | 5.04% | MEDIUM |
+| Ant on the Boundary | 96.61% | 100.00% | EASY |
