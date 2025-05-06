@@ -217,3 +217,4 @@
 | First Unique Character in a String | 5.43% | 100.00% | EASY |
 | Intersection of Two Arrays II | 5.27% | 100.00% | EASY |
 | Binary Tree Level Order Traversal | 14.10% | 100.00% | MEDIUM |
+| Sort Colors | 100.00% | 99.99% | MEDIUM |
