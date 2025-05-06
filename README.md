@@ -13,3 +13,4 @@
 | Count Covered Buildings | 24.23% | 8.84% | MEDIUM |
 | Path Existence Queries in a Graph I | 14.20% | 18.38% | MEDIUM |
 | Unit Conversion I | 9.30% | 29.56% | MEDIUM |
+| Find the Most Common Response | 23.01% | 95.38% | MEDIUM |
