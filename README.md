@@ -104,3 +104,4 @@
 | Greatest Common Divisor of Strings | 11.06% | 16.51% | EASY |
 | Total Cost to Hire K Workers | 5.00% | 18.61% | MEDIUM |
 | Evaluate Division | 0.62% | 100.00% | MEDIUM |
+| Reorder Routes to Make All Paths Lead to the City Zero | 5.05% | 87.58% | MEDIUM |
