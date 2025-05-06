@@ -65,3 +65,4 @@
 | Interleaving String | 5.98% | 5.61% | MEDIUM |
 | Construct Smallest Number From DI String | 19.58% | 85.43% | MEDIUM |
 | Cheapest Flights Within K Stops | 41.47% | 27.54% | MEDIUM |
+| Global and Local Inversions | 66.46% | 97.56% | MEDIUM |
