@@ -20,3 +20,4 @@
 | Find X Value of Array I | 8.94% | 45.16% | MEDIUM |
 | Calculate Score After Performing Instructions | 5.13% | 11.66% | MEDIUM |
 | Min Stack | 84.27% | 30.38% | MEDIUM |
+| Longest Consecutive Sequence | 8.38% | 15.01% | MEDIUM |
