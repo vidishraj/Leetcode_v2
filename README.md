@@ -106,3 +106,4 @@
 | Evaluate Division | 0.62% | 100.00% | MEDIUM |
 | Reorder Routes to Make All Paths Lead to the City Zero | 5.05% | 87.58% | MEDIUM |
 | Delete Node in a BST | 2.46% | 100.00% | MEDIUM |
+| Rotting Oranges | 6.61% | 100.00% | MEDIUM |
