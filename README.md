@@ -98,3 +98,4 @@
 | Split a String Into the Max Number of Unique Substrings | 14.02% | 100.00% | MEDIUM |
 | Design Neighbor Sum Service | 5.21% | 100.00% | EASY |
 | Find if Digit Game Can Be Won | 4.41% | 100.00% | EASY |
+| K Divisible Elements Subarrays | 76.92% | 86.37% | MEDIUM |
