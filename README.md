@@ -36,3 +36,4 @@
 | Palindrome Number | 100.00% | 19.50% | EASY |
 |   Count Symmetric Integers | 59.27% | 94.59% | EASY |
 | Minimum Number of Operations to Make Elements in Array Distinct | 12.62% | 27.92% | EASY |
+| Partition Equal Subset Sum | 43.83% | 13.29% | MEDIUM |
