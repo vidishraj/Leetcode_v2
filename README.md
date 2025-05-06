@@ -146,3 +146,4 @@
 | Summary Ranges | 100.00% | 100.00% | EASY |
 | Simplify Path | 5.80% | 100.00% | MEDIUM |
 | Least Number of Unique Integers after K Removals | 67.00% | 99.60% | MEDIUM |
+| Minimum Number of Arrows to Burst Balloons | 5.04% | 8.19% | MEDIUM |
