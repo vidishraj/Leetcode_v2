@@ -166,3 +166,4 @@
 | 3Sum | 25.91% | 5.64% | MEDIUM |
 | Two Sum II - Input Array Is Sorted | 2.68% | 100.00% | MEDIUM |
 | Valid Palindrome | 5.06% | 57.58% | EASY |
+| Text Justification | 0.04% | 100.00% | HARD |
