@@ -184,3 +184,4 @@
 | Rotate Array | 12.16% | 5.04% | MEDIUM |
 | Ant on the Boundary | 96.61% | 100.00% | EASY |
 | Number of 1 Bits | 0.79% | 100.00% | EASY |
+| Add Binary | 5.50% | 100.00% | EASY |
