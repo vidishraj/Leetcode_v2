@@ -228,3 +228,4 @@
 | Symmetric Tree | 1.44% | 99.94% | EASY |
 | Power of Three | 6.40% | 100.00% | EASY |
 | Missing Number | 5.55% | 99.96% | EASY |
+| Delete Node in a Linked List | 33.20% | 100.00% | MEDIUM |
