@@ -233,3 +233,4 @@
 | Partition Array for Maximum Sum | 11.96% | 100.00% | MEDIUM |
 | Number of Good Ways to Split a String | 5.08% | 14.08% | MEDIUM |
 | Count Square Submatrices with All Ones | 6.47% | 100.00% | MEDIUM |
+| Wildcard Matching | 5.65% | 41.38% | HARD |
