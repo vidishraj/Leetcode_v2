@@ -190,3 +190,4 @@
 | Implement Stack using Queues | 100.00% | 100.00% | EASY |
 | Fibonacci Number | 76.01% | 100.00% | EASY |
 | Backspace String Compare | 11.12% | 100.00% | EASY |
+| Palindrome Linked List | 5.03% | 20.19% | EASY |
