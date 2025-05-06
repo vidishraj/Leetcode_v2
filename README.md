@@ -42,3 +42,4 @@
 | Combination Sum | 20.29% | 61.88% | MEDIUM |
 | Permutations | 100.00% | 57.32% | MEDIUM |
 | Minimum Pair Removal to Sort Array I | 12.77% | 65.34% | EASY |
+| Implement Router | 39.15% | 32.87% | MEDIUM |
