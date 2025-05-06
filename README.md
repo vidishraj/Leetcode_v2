@@ -25,3 +25,4 @@
 | IPO | 26.56% | 87.98% | HARD |
 | Count and Say | 21.68% | 42.25% | MEDIUM |
 | Count the Number of Fair Pairs | 83.23% | 88.98% | MEDIUM |
+| Delete Nodes And Return Forest | 5.89% | 39.36% | MEDIUM |
