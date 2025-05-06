@@ -113,3 +113,4 @@
 | Keys and Rooms | 5.08% | 100.00% | MEDIUM |
 | Best Time to Buy and Sell Stock with Transaction Fee | 19.64% | 77.22% | MEDIUM |
 | Guess Number Higher or Lower | 29.57% | 100.00% | EASY |
+| Smallest Number in Infinite Set | 8.86% | 100.00% | MEDIUM |
