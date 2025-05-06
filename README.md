@@ -80,3 +80,4 @@
 | Decremental String Concatenation | 56.52% | 7.60% | MEDIUM |
 | Sort Matrix by Diagonals | 8.36% | 46.34% | MEDIUM |
 | Sum of Matrix After Queries | 83.33% | 9.52% | MEDIUM |
+| Number of Orders in the Backlog | 78.71% | 87.69% | MEDIUM |
