@@ -28,3 +28,4 @@
 | Delete Nodes And Return Forest | 5.89% | 39.36% | MEDIUM |
 | Smallest Palindromic Rearrangement I | 5.01% | 6.14% | MEDIUM |
 | Find Closest Person | 100.00% | 16.75% | EASY |
+| Number of Unique XOR Triplets II | 20.57% | 98.59% | MEDIUM |
