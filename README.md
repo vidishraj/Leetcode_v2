@@ -145,3 +145,4 @@
 | Find the Length of the Longest Common Prefix | 5.03% | 41.50% | MEDIUM |
 | Summary Ranges | 100.00% | 100.00% | EASY |
 | Simplify Path | 5.80% | 100.00% | MEDIUM |
+| Least Number of Unique Integers after K Removals | 67.00% | 99.60% | MEDIUM |
