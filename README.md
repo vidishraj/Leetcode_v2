@@ -73,3 +73,4 @@
 | Construct the Lexicographically Largest Valid Sequence | 92.89% | 69.34% | MEDIUM |
 | Find Special Substring of Length K | 100.00% | 59.31% | EASY |
 | Eat Pizzas! | 80.37% | 55.06% | MEDIUM |
+| Shortest Completing Word | 9.94% | 27.95% | EASY |
