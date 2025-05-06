@@ -67,3 +67,4 @@
 | Cheapest Flights Within K Stops | 41.47% | 27.54% | MEDIUM |
 | Global and Local Inversions | 66.46% | 97.56% | MEDIUM |
 | Letter Tile Possibilities | 12.68% | 9.29% | MEDIUM |
+| Check if There is a Valid Partition For The Array | 5.04% | 5.26% | MEDIUM |
