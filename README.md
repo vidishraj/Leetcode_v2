@@ -88,3 +88,4 @@
 | Mini Parser | 93.18% | 97.27% | MEDIUM |
 | Path with Maximum Gold | 15.59% | 31.56% | MEDIUM |
 | Maximum Length of a Concatenated String with Unique Characters | 30.25% | 96.06% | MEDIUM |
+| Maximum Number of Fish in a Grid | 31.16% | 60.57% | MEDIUM |
