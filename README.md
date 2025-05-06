@@ -83,3 +83,4 @@
 | Number of Orders in the Backlog | 78.71% | 87.69% | MEDIUM |
 | Event Emitter | 6.52% | 100.00% | MEDIUM |
 | Special Array I | 100.00% | 33.70% | EASY |
+| Minimize Result by Adding Parentheses to Expression | 6.31% | 57.89% | MEDIUM |
