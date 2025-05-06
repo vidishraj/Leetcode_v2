@@ -30,3 +30,4 @@
 | Find Closest Person | 100.00% | 16.75% | EASY |
 | Number of Unique XOR Triplets II | 20.57% | 98.59% | MEDIUM |
 | Minimum Operations to Make Array Sum Divisible by K | 39.05% | 54.96% | EASY |
+| Factorial Trailing Zeroes | 100.00% | 100.00% | MEDIUM |
