@@ -195,3 +195,4 @@
 | Maximum Number of Words Found in Sentences | 5.78% | 100.00% | EASY |
 | A Number After a Double Reversal | 0.08% | 100.00% | EASY |
 | Populating Next Right Pointers in Each Node | 7.40% | 100.00% | MEDIUM |
+| Linked List Cycle | 5.80% | 99.99% | EASY |
