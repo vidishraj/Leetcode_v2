@@ -154,3 +154,4 @@
 | Valid Anagram | 8.61% | 48.32% | EASY |
 | Two Sum | 43.25% | 62.67% | EASY |
 | Happy Number | 6.47% | 100.00% | EASY |
+| Contains Duplicate II | 5.00% | 87.44% | EASY |
