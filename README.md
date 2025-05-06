@@ -91,3 +91,4 @@
 | Maximum Number of Fish in a Grid | 31.16% | 60.57% | MEDIUM |
 | Valid Palindrome II | 59.92% | 30.58% | EASY |
 | Unique Paths | 100.00% | 99.99% | MEDIUM |
+| Maximum Subarray | 61.03% | 99.95% | MEDIUM |
