@@ -176,3 +176,4 @@
 | Candy | 8.98% | 99.37% | HARD |
 | Insert Delete GetRandom O(1) | 21.68% | 9.90% | MEDIUM |
 | Perfect Squares | 5.02% | 10.43% | MEDIUM |
+| Gas Station | 5.04% | 100.00% | MEDIUM |
