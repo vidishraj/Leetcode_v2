@@ -236,3 +236,4 @@
 | Wildcard Matching | 5.65% | 41.38% | HARD |
 | Count Sorted Vowel Strings | 100.00% | 100.00% | MEDIUM |
 | Get Maximum in Generated Array | 100.00% | 100.00% | EASY |
+| Pascal's Triangle II | 100.00% | 100.00% | EASY |
