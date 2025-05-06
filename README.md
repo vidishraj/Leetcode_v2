@@ -74,3 +74,4 @@
 | Find Special Substring of Length K | 100.00% | 59.31% | EASY |
 | Eat Pizzas! | 80.37% | 55.06% | MEDIUM |
 | Shortest Completing Word | 9.94% | 27.95% | EASY |
+| Spiral Matrix II | 100.00% | 47.75% | MEDIUM |
