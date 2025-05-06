@@ -193,3 +193,4 @@
 | Palindrome Linked List | 5.03% | 20.19% | EASY |
 | Single Number | 5.04% | 99.86% | EASY |
 | Maximum Number of Words Found in Sentences | 5.78% | 100.00% | EASY |
+| A Number After a Double Reversal | 0.08% | 100.00% | EASY |
