@@ -161,3 +161,4 @@
 | Implement Trie (Prefix Tree) | 5.03% | 79.30% | MEDIUM |
 | Minimum Size Subarray Sum | 5.48% | 100.00% | MEDIUM |
 | Game of Life | 1.05% | 100.00% | MEDIUM |
+| Find First Palindromic String in the Array | 5.73% | 100.00% | EASY |
