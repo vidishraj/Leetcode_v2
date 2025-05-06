@@ -115,3 +115,4 @@
 | Guess Number Higher or Lower | 29.57% | 100.00% | EASY |
 | Smallest Number in Infinite Set | 8.86% | 100.00% | MEDIUM |
 | Successful Pairs of Spells and Potions | 5.02% | 91.68% | MEDIUM |
+| Reverse Substrings Between Each Pair of Parentheses | 5.26% | 100.00% | MEDIUM |
