@@ -235,3 +235,4 @@
 | Count Square Submatrices with All Ones | 6.47% | 100.00% | MEDIUM |
 | Wildcard Matching | 5.65% | 41.38% | HARD |
 | Count Sorted Vowel Strings | 100.00% | 100.00% | MEDIUM |
+| Get Maximum in Generated Array | 100.00% | 100.00% | EASY |
