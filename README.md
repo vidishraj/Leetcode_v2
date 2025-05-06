@@ -209,3 +209,4 @@
 | Letter Combinations of a Phone Number | 100.00% | 100.00% | MEDIUM |
 | Search Insert Position | 0.72% | 100.00% | EASY |
 | Copy List with Random Pointer | 28.93% | 100.00% | MEDIUM |
+| Sort List | 5.35% | 100.00% | MEDIUM |
