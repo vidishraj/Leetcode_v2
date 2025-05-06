@@ -102,3 +102,4 @@
 | Minimum Consecutive Cards to Pick Up | 5.00% | 17.98% | MEDIUM |
 | Remove Digit From Number to Maximize Result | 5.02% | 100.00% | EASY |
 | Greatest Common Divisor of Strings | 11.06% | 16.51% | EASY |
+| Total Cost to Hire K Workers | 5.00% | 18.61% | MEDIUM |
