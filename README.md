@@ -200,3 +200,4 @@
 | Remove Linked List Elements | 2.12% | 100.00% | EASY |
 | Excel Sheet Column Title | 100.00% | 100.00% | EASY |
 | Binary Tree Postorder Traversal | 100.00% | 100.00% | EASY |
+| Binary Tree Preorder Traversal | 100.00% | 99.78% | EASY |
