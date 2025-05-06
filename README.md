@@ -111,3 +111,4 @@
 | Find Peak Element | 0.47% | 100.00% | MEDIUM |
 | Koko Eating Bananas | 5.03% | 99.98% | MEDIUM |
 | Keys and Rooms | 5.08% | 100.00% | MEDIUM |
+| Best Time to Buy and Sell Stock with Transaction Fee | 19.64% | 77.22% | MEDIUM |
