@@ -120,3 +120,4 @@
 | Maximum Level Sum of a Binary Tree | 5.03% | 99.98% | MEDIUM |
 | Binary Tree Right Side View | 0.95% | 100.00% | MEDIUM |
 | Lowest Common Ancestor of a Binary Tree | 5.00% | 5.21% | MEDIUM |
+| Longest ZigZag Path in a Binary Tree | 5.01% | 93.56% | MEDIUM |
