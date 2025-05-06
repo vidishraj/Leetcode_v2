@@ -162,3 +162,4 @@
 | Minimum Size Subarray Sum | 5.48% | 100.00% | MEDIUM |
 | Game of Life | 1.05% | 100.00% | MEDIUM |
 | Find First Palindromic String in the Array | 5.73% | 100.00% | EASY |
+| Valid Sudoku | 5.01% | 100.00% | MEDIUM |
