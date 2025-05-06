@@ -142,3 +142,4 @@
 | Maximum Number of Operations With the Same Score I | 0.45% | 100.00% | EASY |
 | Count Prefix and Suffix Pairs I | 5.05% | 100.00% | EASY |
 | Most Frequent Prime | 5.49% | 100.00% | MEDIUM |
+| Find the Length of the Longest Common Prefix | 5.03% | 41.50% | MEDIUM |
