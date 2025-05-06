@@ -191,3 +191,4 @@
 | Fibonacci Number | 76.01% | 100.00% | EASY |
 | Backspace String Compare | 11.12% | 100.00% | EASY |
 | Palindrome Linked List | 5.03% | 20.19% | EASY |
+| Single Number | 5.04% | 99.86% | EASY |
