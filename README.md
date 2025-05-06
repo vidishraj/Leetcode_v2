@@ -26,3 +26,4 @@
 | Count and Say | 21.68% | 42.25% | MEDIUM |
 | Count the Number of Fair Pairs | 83.23% | 88.98% | MEDIUM |
 | Delete Nodes And Return Forest | 5.89% | 39.36% | MEDIUM |
+| Smallest Palindromic Rearrangement I | 5.01% | 6.14% | MEDIUM |
