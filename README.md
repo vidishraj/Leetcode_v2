@@ -151,3 +151,4 @@
 | Ransom Note | 6.64% | 99.71% | EASY |
 | Isomorphic Strings | 7.67% | 28.76% | EASY |
 | Word Pattern | 2.75% | 100.00% | EASY |
+| Valid Anagram | 8.61% | 48.32% | EASY |
