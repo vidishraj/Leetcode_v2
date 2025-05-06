@@ -160,3 +160,4 @@
 | Set Matrix Zeroes | 5.30% | 100.00% | MEDIUM |
 | Implement Trie (Prefix Tree) | 5.03% | 79.30% | MEDIUM |
 | Minimum Size Subarray Sum | 5.48% | 100.00% | MEDIUM |
+| Game of Life | 1.05% | 100.00% | MEDIUM |
