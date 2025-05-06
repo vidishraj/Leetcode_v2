@@ -132,3 +132,4 @@
 | Minimum Operations to Write the Letter Y on a Grid | 5.01% | 100.00% | MEDIUM |
 | Minimum Impossible OR | 5.69% | 17.07% | MEDIUM |
 | Minimum Time to Revert Word to Initial State I | 0.00% | 100.00% | MEDIUM |
+| Apply Operations to Make String Empty | 26.42% | 11.42% | MEDIUM |
