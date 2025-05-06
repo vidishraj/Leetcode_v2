@@ -35,3 +35,4 @@
 | Plus One | 3.90% | 99.64% | EASY |
 | Palindrome Number | 100.00% | 19.50% | EASY |
 |   Count Symmetric Integers | 59.27% | 94.59% | EASY |
+| Minimum Number of Operations to Make Elements in Array Distinct | 12.62% | 27.92% | EASY |
