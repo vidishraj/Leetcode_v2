@@ -124,3 +124,4 @@
 | Path Sum III | 23.90% | 100.00% | MEDIUM |
 | Count Good Nodes in Binary Tree | 89.39% | 99.80% | MEDIUM |
 | Surrounded Regions | 5.03% | 74.50% | MEDIUM |
+| Number of Islands | 5.19% | 36.79% | MEDIUM |
