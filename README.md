@@ -214,3 +214,4 @@
 | Intersection of Two Arrays | 22.71% | 100.00% | EASY |
 | Pow(x, n) | 2.73% | 100.00% | MEDIUM |
 | Fizz Buzz | 0.54% | 100.00% | EASY |
+| First Unique Character in a String | 5.43% | 100.00% | EASY |
