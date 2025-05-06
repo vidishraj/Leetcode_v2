@@ -231,3 +231,4 @@
 | Delete Node in a Linked List | 33.20% | 100.00% | MEDIUM |
 | Contains Duplicate | 95.37% | 100.00% | EASY |
 | Partition Array for Maximum Sum | 11.96% | 100.00% | MEDIUM |
+| Number of Good Ways to Split a String | 5.08% | 14.08% | MEDIUM |
